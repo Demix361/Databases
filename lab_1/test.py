@@ -1,6 +1,13 @@
 from random import randint
+from faker import Faker
 
+f = Faker()
 
-a = "asdf,qqqqq,ew3"
+a = []
 
-print(a[:a.find(",")])
+for i in range(1000):
+	a.append(f.name())
+
+with open("names.txt", "w") as f:
+	for i in range(1000):
+		f.write(a[i] + "\n")
