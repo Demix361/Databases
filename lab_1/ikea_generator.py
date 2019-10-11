@@ -48,22 +48,41 @@ def get_name(names_pool):
 	return choice(names_pool)
 
 
-
-def generate_items(amount, filename):
-	items = []
-	names_pool = get_names_pool("swe_nouns.txt")
-
-	for i in range(10):
-		print(get_name(names_pool))
-
-
 def get_category():
 	categories = ["Bed", "Sofa-bed", "Mattresses", "Wardrobes", "Chest of drawer", "other furniture",
 	"Bedside table", "Dressing table", "Bedding", "Quilt", "Pillow", "Mattress", "Pillow protector",
 	"Blanket", "Throw", "Bedspread", "Sofa", "Armchair", "Coffee table", "Side table", "Curtains",
 	"Bedroom storage", "Clothes organiser", "Underbed storage", "Mirror", "Bedroom lighting",
 	"Open storage system", "Sorting solution", "Bedroom decoration", "Accessories",
-	]
+	"TV Stand", "Media Unit", "Shelving unit", "Bookcase", "Cabinet", "Living Room Lighting",
+	"Wall shelve", "Home furnishing rug", "Kitchen", "Kitchen appliance", "Cookware", "Food storage",
+	"Dining table", "Dining seating", "Dinnerware", "Glassware", "Cutlery", "Serveware",
+	"Kitchen lighting", "Vanity unit", "Bathroom Sink", "Bathroom accessories", "Bathroom tap",
+	"Shower", "Towel", "Shower curtains", "Bathroom lighting", "Bathroom decoration", "Office desk"]
+
+	return choice(categories)
+
+def get_str(item):
+
+
+def generate_items(amount, filename):
+	items = []
+	names_pool = get_names_pool("swe_nouns.txt")
+
+	for i in range(amount):
+		item = Item()
+		item.name = get_name(names_pool)
+		item.price = get_price()
+		item.color = get_color()
+		item.category = get_category()
+		item.index = get_index()
+
+
+	with open(filename, "a") as f:
+		for item in items:
+			f.write(get_str(item))
+
+
 
 
 generate_items(100, "ikea.txt")
