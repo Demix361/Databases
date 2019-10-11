@@ -29,14 +29,14 @@ print(sve_nouns)
 """
 
 eng_words = []
-with open("eng_words.txt", "r") as f_eng:
+with open("eng_words.txt", "r", encoding='utf-8') as f_eng:
 	for line in f_eng:
-		eng_words.append(line)
+		eng_words.append(line[:-1])
  
 swe_words = []
 with open("swe_words.txt", "r", encoding='utf-8') as f_swe:
 	for line in f_swe:
-		swe_words.append(line)
+		swe_words.append(line[:-1])
 
-print(eng_words)
+print(swe_words)
 
