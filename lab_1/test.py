@@ -1,15 +1,6 @@
 from random import randint
 
 
-a = []
+a = "asdf,qqqqq,ew3"
 
-def f(a):
-	num = randint(0, 100)
-
-	a.append(num)
-	return num
-
-for i in range(10):
-	f(a)
-
-print(a)
+print(a[:a.find(",")])

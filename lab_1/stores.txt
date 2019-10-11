@@ -1,0 +1,1000 @@
+x2694,Novosibirsk
+g6927,Omsk
+k9114,Nizhny Novgorod
+w2176,Moscow
+e5289,St. Petersburg
+m8037,Nizhny Novgorod
+r8831,Moscow
+z4232,Chelyabinsk
+m5607,Nizhny Novgorod
+y8646,Rostov-on-Don
+o1228,Moscow
+e8309,Ufa
+b8480,Novosibirsk
+l3438,St. Petersburg
+y7813,Ufa
+t9197,Kazan
+f4077,Ufa
+c1862,Yekaterinburg
+e3590,Chelyabinsk
+d5727,Nizhny Novgorod
+n2372,St. Petersburg
+p9378,Samara
+w6520,Ufa
+z9934,Moscow
+y6029,Chelyabinsk
+i5527,Nizhny Novgorod
+u9722,Samara
+v9415,Chelyabinsk
+v2818,Chelyabinsk
+e9678,St. Petersburg
+s3825,Kazan
+u8118,Yekaterinburg
+z6175,Kazan
+i3543,Yekaterinburg
+q9175,Nizhny Novgorod
+a7858,Samara
+e5951,Novosibirsk
+u9048,Nizhny Novgorod
+m7108,St. Petersburg
+l7017,Rostov-on-Don
+y9986,Rostov-on-Don
+q3600,Omsk
+i6179,Yekaterinburg
+u2974,Omsk
+g9910,Rostov-on-Don
+h5114,Moscow
+d2804,Ufa
+p8840,Moscow
+n9452,Yekaterinburg
+h3054,Ufa
+n2848,St. Petersburg
+o3302,Rostov-on-Don
+p9204,Kazan
+s5371,Rostov-on-Don
+z8833,St. Petersburg
+n4526,Moscow
+w6890,Rostov-on-Don
+p8770,Ufa
+l2572,Yekaterinburg
+v2789,Samara
+h9129,Ufa
+j6996,Ufa
+j9143,St. Petersburg
+z8047,Yekaterinburg
+r9750,Ufa
+g5296,Nizhny Novgorod
+k2701,Rostov-on-Don
+m4666,Kazan
+q6884,Omsk
+s9631,Novosibirsk
+t1154,Omsk
+r5075,Samara
+z3854,Kazan
+f7602,Yekaterinburg
+z3420,Nizhny Novgorod
+a9764,Omsk
+n6562,Novosibirsk
+u2113,Kazan
+d9494,Omsk
+l5244,Samara
+e8424,Nizhny Novgorod
+a7868,Moscow
+l1960,Moscow
+a6216,St. Petersburg
+v3080,Omsk
+r4744,Nizhny Novgorod
+u7664,Omsk
+a7449,Samara
+f9784,Nizhny Novgorod
+g8205,Ufa
+x1480,Samara
+f5353,Samara
+w1820,Novosibirsk
+a1646,Nizhny Novgorod
+w7423,Samara
+b7843,Ufa
+o4567,Yekaterinburg
+m2862,Rostov-on-Don
+g1907,Novosibirsk
+u3820,St. Petersburg
+v7687,Nizhny Novgorod
+x6107,Nizhny Novgorod
+m6648,Novosibirsk
+p5513,Ufa
+s2491,Kazan
+z1821,Chelyabinsk
+i2221,Samara
+j9936,St. Petersburg
+d8769,Yekaterinburg
+x8817,St. Petersburg
+a9660,Omsk
+v7778,Samara
+y1615,Ufa
+n5490,Nizhny Novgorod
+u3767,Nizhny Novgorod
+e8598,Rostov-on-Don
+t7451,Novosibirsk
+j5148,Nizhny Novgorod
+y7495,Ufa
+g9677,Novosibirsk
+w5010,Yekaterinburg
+f3340,Yekaterinburg
+q2824,Novosibirsk
+v2252,Moscow
+s5380,Yekaterinburg
+s1421,Novosibirsk
+y6851,Yekaterinburg
+u8961,Kazan
+h9769,Samara
+z4490,Nizhny Novgorod
+q9443,Chelyabinsk
+o6967,Kazan
+n8459,St. Petersburg
+q7946,Ufa
+u4528,Nizhny Novgorod
+u4044,Omsk
+i8108,St. Petersburg
+h3168,St. Petersburg
+u1366,Kazan
+b1674,Kazan
+s2806,Moscow
+q6553,Nizhny Novgorod
+i9745,Novosibirsk
+r1232,Rostov-on-Don
+s9517,Yekaterinburg
+y9851,Novosibirsk
+h2428,Samara
+v5110,Nizhny Novgorod
+c8144,Yekaterinburg
+d1615,Novosibirsk
+r3617,Kazan
+r3929,Kazan
+v5513,St. Petersburg
+f8883,Yekaterinburg
+u5623,Kazan
+j8898,Samara
+s5512,Omsk
+l8981,Moscow
+s4522,St. Petersburg
+e5341,Yekaterinburg
+w6170,Omsk
+v9879,Ufa
+c8635,Nizhny Novgorod
+t7051,St. Petersburg
+o3683,Rostov-on-Don
+u1581,Chelyabinsk
+l7705,Chelyabinsk
+e5016,Moscow
+t3675,Novosibirsk
+o6986,Novosibirsk
+g7520,Yekaterinburg
+i4541,St. Petersburg
+x5024,Omsk
+z3331,Chelyabinsk
+m6814,St. Petersburg
+j8672,Rostov-on-Don
+s1701,Rostov-on-Don
+s7261,Omsk
+n7327,Nizhny Novgorod
+y6106,Novosibirsk
+w3577,Kazan
+r8350,St. Petersburg
+e9219,Rostov-on-Don
+e1606,Nizhny Novgorod
+h4761,Omsk
+q5712,Yekaterinburg
+x8940,Moscow
+g2475,Kazan
+u1293,Chelyabinsk
+c3621,Novosibirsk
+u4729,Chelyabinsk
+j5781,Rostov-on-Don
+t2322,Omsk
+f4597,Kazan
+i2617,Moscow
+d3029,Nizhny Novgorod
+v9857,Nizhny Novgorod
+i9786,Samara
+u2801,St. Petersburg
+c4631,Rostov-on-Don
+t4718,Omsk
+b1933,St. Petersburg
+i4385,Yekaterinburg
+z3885,Kazan
+e9222,St. Petersburg
+i2919,Rostov-on-Don
+r1895,Rostov-on-Don
+w8265,Chelyabinsk
+b2662,Moscow
+n5215,Moscow
+a1824,Samara
+m6800,Moscow
+x7492,Omsk
+h7206,St. Petersburg
+f1033,Moscow
+g3228,Kazan
+o8508,Ufa
+f8736,Kazan
+q1879,Moscow
+j2987,Ufa
+o5858,Kazan
+g2034,Rostov-on-Don
+a9369,Ufa
+a7670,Chelyabinsk
+x1667,Omsk
+h4340,Rostov-on-Don
+g1105,Rostov-on-Don
+x7361,Chelyabinsk
+e2983,Kazan
+e6253,Samara
+m4777,Rostov-on-Don
+k8166,Rostov-on-Don
+b8694,Yekaterinburg
+i9489,Moscow
+e5702,St. Petersburg
+m1708,Ufa
+r7032,Kazan
+j6948,Ufa
+c4052,Samara
+t4454,Samara
+c5107,St. Petersburg
+v5639,Rostov-on-Don
+s3909,Rostov-on-Don
+l6624,Samara
+y8336,Omsk
+z4600,Samara
+y3877,Chelyabinsk
+n1088,Moscow
+v1023,Moscow
+d6003,Rostov-on-Don
+x2282,Chelyabinsk
+x4791,Samara
+x8387,Rostov-on-Don
+k8806,Kazan
+c6184,Yekaterinburg
+v7119,Nizhny Novgorod
+v7756,Omsk
+z3261,Novosibirsk
+y9269,St. Petersburg
+a1755,Omsk
+d6766,Nizhny Novgorod
+l8126,Rostov-on-Don
+v1065,Samara
+o6570,Omsk
+m2590,Ufa
+y3759,Chelyabinsk
+p8014,Chelyabinsk
+u6846,Novosibirsk
+y9088,Novosibirsk
+z6350,Kazan
+r3974,Ufa
+j1958,Omsk
+l9854,Moscow
+q4066,Rostov-on-Don
+d6021,Nizhny Novgorod
+b8640,Moscow
+z8740,Chelyabinsk
+z4710,Novosibirsk
+u5518,St. Petersburg
+n9003,St. Petersburg
+v1461,Moscow
+p3517,Moscow
+t2867,St. Petersburg
+j4441,Omsk
+r3355,Omsk
+x1199,Yekaterinburg
+u1336,Nizhny Novgorod
+v4176,Novosibirsk
+d5150,Ufa
+z5927,Samara
+n1218,Samara
+u3631,Kazan
+s8048,Nizhny Novgorod
+f9028,Omsk
+m7333,St. Petersburg
+l6514,Omsk
+n3063,Yekaterinburg
+c4345,Ufa
+y3548,Samara
+s2849,Omsk
+o6998,Novosibirsk
+m4350,Chelyabinsk
+x8188,Nizhny Novgorod
+g6084,Kazan
+i9381,Yekaterinburg
+y1680,Nizhny Novgorod
+u1244,Samara
+a8870,St. Petersburg
+i6194,Rostov-on-Don
+n6165,Kazan
+u7259,Novosibirsk
+h1760,Omsk
+p3419,Chelyabinsk
+j2186,Ufa
+o8754,Rostov-on-Don
+m9273,Moscow
+x7997,Omsk
+v2020,Omsk
+b8337,Rostov-on-Don
+e6978,Ufa
+i2539,Novosibirsk
+w9903,Nizhny Novgorod
+l5790,Yekaterinburg
+w1007,St. Petersburg
+v6482,Omsk
+l3682,Novosibirsk
+h4121,Chelyabinsk
+q3730,St. Petersburg
+d2145,Novosibirsk
+b3774,Nizhny Novgorod
+b4556,Nizhny Novgorod
+v8957,Novosibirsk
+s8727,Omsk
+m9962,Samara
+i7841,Chelyabinsk
+j7468,Nizhny Novgorod
+t5557,Moscow
+b9280,Yekaterinburg
+a8224,Moscow
+i4023,Chelyabinsk
+d1125,Chelyabinsk
+n4841,Chelyabinsk
+p7655,Rostov-on-Don
+s6984,Omsk
+f8598,Rostov-on-Don
+x6827,Omsk
+d7059,Omsk
+w3628,Novosibirsk
+n1243,Moscow
+r1766,Samara
+d4391,Ufa
+h6596,St. Petersburg
+t7668,Chelyabinsk
+w6145,Kazan
+d4195,Nizhny Novgorod
+k6128,Kazan
+a7266,St. Petersburg
+l2132,Rostov-on-Don
+c4823,Samara
+k1484,St. Petersburg
+p2022,Chelyabinsk
+m7171,Rostov-on-Don
+t7515,Yekaterinburg
+z4644,Omsk
+q1583,Nizhny Novgorod
+n3253,Ufa
+j3250,St. Petersburg
+l9101,St. Petersburg
+j3727,Chelyabinsk
+z9001,Nizhny Novgorod
+j1997,Novosibirsk
+w4932,Ufa
+n2771,St. Petersburg
+h2449,Omsk
+x8335,Kazan
+z3668,Omsk
+d2798,Novosibirsk
+l5845,Omsk
+i3609,Samara
+c9668,Samara
+r5647,Omsk
+j7650,Samara
+h7850,Kazan
+u9979,St. Petersburg
+x9604,Novosibirsk
+w8168,Kazan
+d6774,Moscow
+n2984,St. Petersburg
+x2293,Ufa
+r5207,Omsk
+e3714,Rostov-on-Don
+j7220,Ufa
+d6030,Novosibirsk
+p2374,Moscow
+v9682,Moscow
+h6976,Kazan
+s1033,Omsk
+s8923,Kazan
+z9183,Chelyabinsk
+z3234,Yekaterinburg
+q6358,St. Petersburg
+o4117,Nizhny Novgorod
+t8912,Rostov-on-Don
+m3355,Moscow
+p7068,Rostov-on-Don
+r3012,Kazan
+a6424,Omsk
+h9719,Yekaterinburg
+g3247,St. Petersburg
+x5319,Samara
+g6521,Omsk
+c6947,Omsk
+j5207,Kazan
+a7963,Kazan
+i6788,St. Petersburg
+n6239,Yekaterinburg
+n3044,Yekaterinburg
+b8363,Moscow
+j7618,Kazan
+n2278,Novosibirsk
+m9641,Samara
+u6923,Novosibirsk
+c9245,St. Petersburg
+x5028,Novosibirsk
+k7109,Novosibirsk
+a5302,Kazan
+y8115,Rostov-on-Don
+j1379,Omsk
+x8999,Moscow
+l4169,Rostov-on-Don
+f3535,Omsk
+q8209,Novosibirsk
+l3419,Moscow
+m2015,Kazan
+d5223,Chelyabinsk
+l4753,St. Petersburg
+s2098,Chelyabinsk
+h3960,Novosibirsk
+k3235,Novosibirsk
+c4850,Ufa
+s1630,Samara
+a9860,Chelyabinsk
+j3886,Moscow
+i3470,Ufa
+t1367,Samara
+c9568,St. Petersburg
+t8347,Rostov-on-Don
+d8449,Rostov-on-Don
+l9569,Omsk
+o6297,Yekaterinburg
+k8237,Ufa
+x8875,Ufa
+o8814,Samara
+j2752,Yekaterinburg
+x6526,Yekaterinburg
+q5117,Novosibirsk
+t4764,Novosibirsk
+l7236,Nizhny Novgorod
+t6278,Ufa
+m8044,Novosibirsk
+d7829,Kazan
+r7695,Omsk
+a9669,Moscow
+u9214,Ufa
+i6906,Nizhny Novgorod
+l8640,Novosibirsk
+q1364,St. Petersburg
+t2171,Omsk
+h4243,Nizhny Novgorod
+v9043,Chelyabinsk
+f1924,Ufa
+n2322,Ufa
+x6747,Chelyabinsk
+k7570,Omsk
+f8974,St. Petersburg
+c3802,Samara
+q9136,St. Petersburg
+b9088,Kazan
+s3062,Ufa
+z2162,Kazan
+e7691,Kazan
+t6701,Omsk
+t3359,Nizhny Novgorod
+s6822,Ufa
+g9542,Chelyabinsk
+z5295,Moscow
+n7478,Kazan
+z1762,Chelyabinsk
+q7829,Nizhny Novgorod
+j6665,Moscow
+f8005,Samara
+b6303,Ufa
+t2750,Yekaterinburg
+s4012,Chelyabinsk
+d4225,Nizhny Novgorod
+x7945,St. Petersburg
+t6985,St. Petersburg
+q1322,St. Petersburg
+p8160,Rostov-on-Don
+x8642,Novosibirsk
+k8946,Rostov-on-Don
+e4464,Chelyabinsk
+e8409,Omsk
+z7050,Chelyabinsk
+m8991,St. Petersburg
+t7378,Rostov-on-Don
+o2879,Rostov-on-Don
+z8742,Moscow
+h9144,Kazan
+d4206,Chelyabinsk
+s3989,Samara
+o7099,Ufa
+n8569,Moscow
+d3995,Kazan
+j6833,Chelyabinsk
+o1037,Chelyabinsk
+i9097,St. Petersburg
+y2701,Novosibirsk
+m1815,Yekaterinburg
+q4958,Moscow
+c2146,Novosibirsk
+n1496,Rostov-on-Don
+b6800,Omsk
+f6069,Rostov-on-Don
+n8082,Omsk
+i8600,Nizhny Novgorod
+x9000,Rostov-on-Don
+d5479,Kazan
+l9250,Omsk
+m3776,Chelyabinsk
+o9529,Ufa
+b8134,Kazan
+o7727,Moscow
+n2964,Omsk
+j9512,Nizhny Novgorod
+h6873,Samara
+u1344,Kazan
+o4014,St. Petersburg
+z2107,Omsk
+x7819,Samara
+s8089,Chelyabinsk
+j8089,Kazan
+e9530,Moscow
+z1175,Novosibirsk
+a4020,Yekaterinburg
+z9465,Yekaterinburg
+m3354,Samara
+g7476,Samara
+r5835,Ufa
+s9829,Novosibirsk
+n4403,Chelyabinsk
+w5438,Samara
+x6169,Moscow
+j3011,Novosibirsk
+e7788,Kazan
+p5940,Omsk
+k3471,Samara
+w1329,Kazan
+q5672,Rostov-on-Don
+w9319,Ufa
+f5029,Nizhny Novgorod
+t6845,Omsk
+b9155,St. Petersburg
+w3749,Chelyabinsk
+b7090,Ufa
+g8443,Rostov-on-Don
+s9503,Nizhny Novgorod
+s2054,Yekaterinburg
+r4031,Yekaterinburg
+d4023,Omsk
+l2684,Chelyabinsk
+g9724,St. Petersburg
+c9724,Novosibirsk
+q4844,Chelyabinsk
+b5844,Nizhny Novgorod
+o2630,Rostov-on-Don
+a5139,Chelyabinsk
+s1845,Chelyabinsk
+d9893,Chelyabinsk
+s8019,Kazan
+j8523,Kazan
+i1987,Ufa
+e6656,Samara
+p5205,Nizhny Novgorod
+y7552,Rostov-on-Don
+p8546,Yekaterinburg
+g5500,Chelyabinsk
+x5530,St. Petersburg
+o1310,Novosibirsk
+n9946,Novosibirsk
+j8706,Moscow
+x1826,Ufa
+k4242,Nizhny Novgorod
+g7651,Rostov-on-Don
+t2048,Yekaterinburg
+m9579,Nizhny Novgorod
+p2222,Omsk
+y7807,Kazan
+s3403,Samara
+w3123,Kazan
+y1153,Chelyabinsk
+p8133,Novosibirsk
+n8312,Samara
+j7003,Rostov-on-Don
+x3304,Omsk
+w8510,Ufa
+a9028,Chelyabinsk
+y8277,Novosibirsk
+l3369,Ufa
+q9039,Chelyabinsk
+s4843,Chelyabinsk
+c5646,Novosibirsk
+w8131,St. Petersburg
+d6730,St. Petersburg
+l4114,Nizhny Novgorod
+z8229,Samara
+x7175,Moscow
+q9350,Novosibirsk
+j1979,St. Petersburg
+u9868,Omsk
+g6435,Novosibirsk
+n8301,St. Petersburg
+w4375,Chelyabinsk
+h8655,Rostov-on-Don
+h3964,Rostov-on-Don
+j4199,Kazan
+n6477,Yekaterinburg
+k1777,Samara
+m6980,Nizhny Novgorod
+p5258,Chelyabinsk
+q8944,Yekaterinburg
+k7828,Ufa
+c5122,Moscow
+o7134,Novosibirsk
+x3578,St. Petersburg
+s9454,Yekaterinburg
+l2146,St. Petersburg
+n1701,Rostov-on-Don
+z5383,Kazan
+d4689,Moscow
+s9628,Omsk
+z3622,St. Petersburg
+w7259,Yekaterinburg
+u8720,Rostov-on-Don
+v5068,St. Petersburg
+o5671,Novosibirsk
+f8919,Novosibirsk
+e3854,Rostov-on-Don
+e6285,Omsk
+d9914,Novosibirsk
+p9892,Novosibirsk
+k4356,Nizhny Novgorod
+f2502,Novosibirsk
+s8929,Rostov-on-Don
+x4092,Chelyabinsk
+f4816,Kazan
+s1012,Novosibirsk
+d3234,Ufa
+z9317,Chelyabinsk
+a6743,Omsk
+v5620,St. Petersburg
+w2251,Chelyabinsk
+u1347,Omsk
+v8185,Chelyabinsk
+c6787,Kazan
+d7733,Nizhny Novgorod
+y2428,St. Petersburg
+t8904,Novosibirsk
+m7935,Novosibirsk
+f8314,Chelyabinsk
+b7939,Kazan
+w5411,Novosibirsk
+o6861,Yekaterinburg
+g8339,Yekaterinburg
+u3596,Novosibirsk
+d4161,Ufa
+i4701,Chelyabinsk
+e9111,Yekaterinburg
+r8991,Rostov-on-Don
+d1122,Nizhny Novgorod
+v5597,Samara
+g4192,Novosibirsk
+l9263,Moscow
+n6981,Rostov-on-Don
+n3533,Novosibirsk
+v7150,Moscow
+e6368,Chelyabinsk
+i6861,Omsk
+h1277,Novosibirsk
+s9252,Chelyabinsk
+j3054,Samara
+m7041,Samara
+u9857,Nizhny Novgorod
+u6007,St. Petersburg
+y7048,Omsk
+b7389,Moscow
+c7813,Chelyabinsk
+j6787,Kazan
+x5302,Nizhny Novgorod
+v3562,Chelyabinsk
+h4751,Omsk
+u5186,St. Petersburg
+e7411,Kazan
+q4024,Nizhny Novgorod
+y9321,Novosibirsk
+l3341,Ufa
+r3581,St. Petersburg
+t9630,St. Petersburg
+c5238,Moscow
+v2840,Novosibirsk
+a6890,Moscow
+l7861,Omsk
+c5702,Nizhny Novgorod
+v8450,Kazan
+f7208,Samara
+i2873,Novosibirsk
+i9125,Yekaterinburg
+k6823,Omsk
+v6882,Samara
+b6054,Nizhny Novgorod
+n2550,Ufa
+m3787,Novosibirsk
+v1459,Samara
+x9186,Novosibirsk
+h6607,Ufa
+t6366,Ufa
+l1017,Rostov-on-Don
+a5394,Yekaterinburg
+m8373,Samara
+f4815,Nizhny Novgorod
+u2157,Kazan
+b1532,Novosibirsk
+p7529,Moscow
+c2563,Moscow
+x5919,Novosibirsk
+i5151,Chelyabinsk
+z4677,Novosibirsk
+x3875,Moscow
+f1432,St. Petersburg
+b6992,Yekaterinburg
+f6641,St. Petersburg
+p5196,St. Petersburg
+f1335,Ufa
+i8343,Yekaterinburg
+k9957,St. Petersburg
+n6639,Ufa
+f2843,Moscow
+b9668,Yekaterinburg
+c2029,Ufa
+h8164,Novosibirsk
+o7159,Nizhny Novgorod
+o6223,Rostov-on-Don
+k9578,Kazan
+d7007,St. Petersburg
+v7990,Nizhny Novgorod
+u4259,St. Petersburg
+j8429,St. Petersburg
+r5913,Nizhny Novgorod
+k9735,Moscow
+e5428,Yekaterinburg
+n8807,Samara
+b5571,Nizhny Novgorod
+r6813,Novosibirsk
+v4792,Rostov-on-Don
+t3396,Yekaterinburg
+v3434,Kazan
+j9927,Kazan
+b9195,Yekaterinburg
+y3366,Rostov-on-Don
+w6277,Samara
+u6421,Chelyabinsk
+b5193,Novosibirsk
+s4812,Rostov-on-Don
+s3116,Kazan
+z1789,Nizhny Novgorod
+w6434,Rostov-on-Don
+d6684,Samara
+p6433,Samara
+n1203,Nizhny Novgorod
+n2638,Rostov-on-Don
+u7778,Nizhny Novgorod
+z7317,Novosibirsk
+g4109,Samara
+b7533,Nizhny Novgorod
+b4962,Moscow
+b1957,St. Petersburg
+q2614,St. Petersburg
+i5870,Samara
+m9207,Ufa
+y8683,Ufa
+o9285,Chelyabinsk
+m3148,Nizhny Novgorod
+e8514,Moscow
+a5036,Chelyabinsk
+a1015,Ufa
+j2259,Omsk
+v3009,Yekaterinburg
+t5766,St. Petersburg
+g7288,Yekaterinburg
+c5325,St. Petersburg
+q6997,Chelyabinsk
+z9321,St. Petersburg
+n6912,Nizhny Novgorod
+f3087,Chelyabinsk
+y8396,Chelyabinsk
+f7333,Moscow
+t7799,Moscow
+f8584,St. Petersburg
+y1935,Yekaterinburg
+i7809,Yekaterinburg
+h8547,Rostov-on-Don
+s8627,Nizhny Novgorod
+m7906,Nizhny Novgorod
+x5711,Nizhny Novgorod
+e8132,St. Petersburg
+y2379,Rostov-on-Don
+m2819,Yekaterinburg
+g7925,Nizhny Novgorod
+a8063,Moscow
+r4598,Rostov-on-Don
+a5287,Ufa
+l5072,Ufa
+b1142,Novosibirsk
+j2854,Kazan
+w2725,Yekaterinburg
+b3129,Omsk
+c6413,Rostov-on-Don
+l9810,St. Petersburg
+p1107,Chelyabinsk
+p5986,Nizhny Novgorod
+m3575,Rostov-on-Don
+e4766,Novosibirsk
+j5466,Kazan
+h1364,Ufa
+e6566,Novosibirsk
+e7025,Nizhny Novgorod
+t3300,Chelyabinsk
+e9705,Ufa
+e4035,Samara
+d4570,Samara
+h1519,Chelyabinsk
+r7527,Rostov-on-Don
+a7681,Moscow
+s5160,Chelyabinsk
+g2398,Kazan
+g3897,Samara
+p4486,Chelyabinsk
+q3711,Samara
+m5124,Rostov-on-Don
+l1741,Yekaterinburg
+d6128,Omsk
+i1723,Moscow
+c9482,Chelyabinsk
+i5335,Chelyabinsk
+f8903,Chelyabinsk
+n1763,Chelyabinsk
+m2376,Novosibirsk
+i8616,Ufa
+z9109,Samara
+d4146,Yekaterinburg
+g4220,Nizhny Novgorod
+n9510,Yekaterinburg
+l6224,St. Petersburg
+n5830,Nizhny Novgorod
+i7968,Kazan
+s8287,Nizhny Novgorod
+t7681,Yekaterinburg
+l6149,Nizhny Novgorod
+r3555,Samara
+v5959,Ufa
+x2563,Kazan
+f2839,Omsk
+g3855,Kazan
+k1254,Samara
+s7167,Novosibirsk
+c2124,Omsk
+d6469,Omsk
+a5920,Rostov-on-Don
+p6034,Samara
+x1104,Rostov-on-Don
+p8073,Novosibirsk
+f2812,Kazan
+e3232,Samara
+h5123,Novosibirsk
+e1600,St. Petersburg
+w3027,Novosibirsk
+x6789,Omsk
+y6185,Moscow
+j5395,Omsk
+o2356,Omsk
+v8850,Novosibirsk
+l9721,Nizhny Novgorod
+h2911,Samara
+d9079,Ufa
+m7084,St. Petersburg
+n5784,Chelyabinsk
+w1425,Yekaterinburg
+d7505,Nizhny Novgorod
+i1742,Nizhny Novgorod
+b5448,St. Petersburg
+p4102,Omsk
+u7512,Chelyabinsk
+i5443,Yekaterinburg
+j4752,St. Petersburg
+p4906,Kazan
+r6461,St. Petersburg
+o4109,Ufa
+v3180,Samara
+j9723,Rostov-on-Don
+s2460,Omsk
+k9149,Chelyabinsk
+k6414,Samara
+m3184,Ufa
+n7995,Kazan
+h6514,Nizhny Novgorod
+m5121,Novosibirsk
+f1401,St. Petersburg
+a6560,St. Petersburg
+r7543,Novosibirsk
+p1617,Rostov-on-Don
+v2962,Moscow
+u4671,Novosibirsk
+c4273,Omsk
+b7032,Ufa
+p3130,Novosibirsk
+x9969,Omsk
+k1698,Rostov-on-Don
+z1599,Samara
+p8357,St. Petersburg
+k5283,Omsk
+p6374,Nizhny Novgorod
+e3464,Nizhny Novgorod
+e9098,Moscow
+f3350,Rostov-on-Don
+a7144,Chelyabinsk
+q9129,Chelyabinsk
+m9139,Novosibirsk
+l4951,Samara
+y3924,Moscow
+u2865,Ufa
+q7681,Rostov-on-Don
+r7123,Kazan
+k8547,Novosibirsk
+w4706,Samara
+u3279,Chelyabinsk
+j4386,Nizhny Novgorod
+x1680,Omsk
+t9241,Omsk
+n5027,St. Petersburg
+a7260,Yekaterinburg
+k3346,Ufa
+f7268,Samara
+c6821,Ufa
+a1083,St. Petersburg
+z1848,Yekaterinburg
+b9278,Omsk
+w9607,Kazan
+a3906,Ufa
+g8451,Rostov-on-Don
+e4335,Yekaterinburg
+q8771,Yekaterinburg
+v1604,Samara
+p7671,Moscow
+g1196,Rostov-on-Don
+m4480,Novosibirsk
+k1730,Rostov-on-Don
+d9627,Yekaterinburg
+b1034,Yekaterinburg
+n2029,Nizhny Novgorod
+k6376,Chelyabinsk
+i5482,Kazan
+d1446,Rostov-on-Don
+c7106,Yekaterinburg
+e1041,Chelyabinsk
+a9463,Rostov-on-Don
+g6850,Nizhny Novgorod
+m2872,Chelyabinsk
+y9463,Chelyabinsk
+r7346,Ufa
+f3934,Ufa
+u7766,Chelyabinsk
+w1497,Rostov-on-Don
+v3869,St. Petersburg
+x9018,Novosibirsk
+p3498,Yekaterinburg
+p8437,Novosibirsk
+h7329,Ufa
+v2642,Kazan
+h8586,Kazan
+i8948,Ufa
+b1721,Rostov-on-Don
+d7871,Moscow
+n9350,Omsk
+i3738,Nizhny Novgorod
+u6788,Ufa
+k5655,Ufa
+h7420,Samara
+p3214,Omsk
+n8993,Yekaterinburg
+y8584,Kazan
