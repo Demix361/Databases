@@ -3,34 +3,28 @@ from random import randint, choice
 
 class Item():
 	def __init__(self):
-		self.category = None
-		self.name = None
-		self.price = None
 		self.index = None
+		self.name = None
+		self.category = None
 		self.color = None
+		self.price = None
 
 
-def get_color():
-	color_pool = ["black", "white", "pink", "yellow", "gold", "light red",
-	"turquoise", "olive drab", "orchid", "brown", "orange", "purple",
-	"light blue", "sandy brown", "spring green", "maroon", "gray", "red",
-	"blue", "green", "light cyan", "chocolate", "salmon", "ivory", "white", 
-	"dark_red", "dark_blue", "silver", "aquamarine", "dark green", "violet red",
-	"wheat"]
+def get_index(pool):
+	while True:
+		first = randint(100, 999)
+		mid = randint(100, 999)
+		last = randint(10, 99)
 
-	return choice(color_pool)
+		index = str(first) + "." + str(mid) + "." + str(last)
 
-
-def get_index():
-	first = randint(100, 999)
-	mid = randint(100, 999)
-	last = randint(10, 99)
-
-	return str(first) + "." + str(mid) + "." + str(last)
+		if index not in pool:
+			pool.append(index)
+			return index
 
 
-def get_price():
-	return randint(5, 200) * 100 - 1
+def get_name(names_pool):
+	return choice(names_pool)
 
 
 def get_names_pool(filename):
@@ -42,10 +36,6 @@ def get_names_pool(filename):
 			names.append(word.lower())
 
 	return names
-
-
-def get_name(names_pool):
-	return choice(names_pool)
 
 
 def get_category():
@@ -62,12 +52,30 @@ def get_category():
 
 	return choice(categories)
 
-def get_str(item):
+
+def get_color():
+	color_pool = ["black", "white", "pink", "yellow", "gold", "light red",
+	"turquoise", "olive drab", "orchid", "brown", "orange", "purple",
+	"light blue", "sandy brown", "spring green", "maroon", "gray", "red",
+	"blue", "green", "light cyan", "chocolate", "salmon", "ivory", "white", 
+	"dark_red", "dark_blue", "silver", "aquamarine", "dark green", "violet red",
+	"wheat"]
+
+	return choice(color_pool)
+
+
+def get_price():
+	return randint(5, 200) * 100 - 1
+
+
+def to_str(item):
+	return item.index + "," + item.name + "," + item.category + "," + item.color + "," + str(item.price) + "\n"
 
 
 def generate_items(amount, filename):
 	items = []
 	names_pool = get_names_pool("swe_nouns.txt")
+	index_pool = []
 
 	for i in range(amount):
 		item = Item()
@@ -75,17 +83,14 @@ def generate_items(amount, filename):
 		item.price = get_price()
 		item.color = get_color()
 		item.category = get_category()
-		item.index = get_index()
+		item.index = get_index(index_pool)
+		items.append(item)
 
 
-	with open(filename, "a") as f:
+	with open(filename, "w", encoding="utf-8") as f:
 		for item in items:
-			f.write(get_str(item))
+			f.write(to_str(item))
 
 
-
-
-generate_items(100, "ikea.txt")
-
-	
-
+if __name__ == "__main__":
+	generate_items(1000, "items.txt")
