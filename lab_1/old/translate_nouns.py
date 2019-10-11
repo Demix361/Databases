@@ -38,5 +38,14 @@ with open("swe_words.txt", "r", encoding='utf-8') as f_swe:
 	for line in f_swe:
 		swe_words.append(line[:-1])
 
-print(swe_words)
+print(len(swe_words))
+new_words = []
+
+for i in range(len(swe_words)):
+	if swe_words[i] not in eng_words:
+		new_words.append(swe_words[i])
+
+with open("asdf.txt", "w", encoding="utf-8") as f:
+	for i in range(len(new_words)):
+		f.write(new_words[i] + "\n")
 

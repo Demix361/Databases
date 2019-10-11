@@ -1,3 +1,3 @@
-a = "asd ggf   iiif9"
+a = "asdf"
 
-print(a.split())
+print(a[0].upper() + a[1:])
