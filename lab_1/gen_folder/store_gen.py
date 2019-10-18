@@ -55,6 +55,7 @@ def generate_stores(amount, filename):
 	address_pool = get_address_pool(1000)
 	city_pool = get_city_pool(500)
 	stores = []
+	table_header = "city,street,house,postcode\n"
 
 	for i in range(amount):
 		store = Store()
@@ -63,6 +64,7 @@ def generate_stores(amount, filename):
 		stores.append(store)
 
 	with open(filename, "w", encoding="utf-8") as f:
+		f.write(table_header)
 		for store in stores:
 			f.write(to_str(store))
 

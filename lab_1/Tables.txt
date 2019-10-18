@@ -7,7 +7,7 @@ PRODUCT (product_gen.py - ready)
 - color
 - cost
 
-STORE
+STORE (store_gen.py - ready)
 - store_id - unique
 - city
 - street
