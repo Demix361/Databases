@@ -14,15 +14,16 @@ STORE (store_gen.py - ready)
 - house
 - postal code
 
-CLIENT
+CLIENT (client_gen.py - ready)
 - client_id - unique
 - first_name
 - last_name
+- sex
 - phone_number - unique
 - email -unique
 - status
 
-JOB
+JOB (no generator)
 - job_id - unique
 - position
 - salary
