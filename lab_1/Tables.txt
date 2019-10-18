@@ -1,0 +1,50 @@
+
+===== MAIN TABLES =====
+PRODUCT
+- product_id (123.456.78) - unique
+- name
+- category
+- color
+- cost
+
+STORE
+- store_id - unique
+- city
+- street
+- house
+- postal code
+
+CLIENT
+- client_id - unique
+- first_name
+- last_name
+- phone_number - unique
+- email -unique
+- status
+
+JOB
+- job_id - unique
+- position
+- salary
+
+===== DEPENDENT TABLES =====
+STOCK
+- store_id
+- product_id
+- quantity
+
+EMPLOYEES
+- employee_id - unique
+- first_name
+- second_name
+- phone - unique
+- email - unique
+- store_id
+- job_id
+
+PURCHASES
+- client_id
+- product_id
+- store_id
+- amount
+- datetime

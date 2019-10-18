@@ -1,0 +1,1000 @@
+1,Hannah Hendrix,+79362683126,Nizhny Novgorod,silver
+2,Jennifer Franco,+79765993061,Omsk,silver
+3,Sabrina Gilbert,+79370159676,Novosibirsk,silver
+4,Angela Mcguire,+79996188711,Samara,diamond
+5,Gabriel Wilson,+79373735584,Kazan,silver
+6,Valerie Barrett,+79785813946,Nizhny Novgorod,silver
+7,Robert Schaefer,+79831561201,Samara,bronze
+8,Colleen Torres,+79802309268,Yekaterinburg,gold
+9,Margaret Miller,+79898165977,Ufa,gold
+10,Angela Krueger,+79526445622,Chelyabinsk,bronze
+11,Greg Hensley,+79016107075,Samara,silver
+12,Regina Williams,+79117395054,Ufa,gold
+13,James Mccarthy,+79206254605,Ufa,silver
+14,Shane Murphy,+79705272176,Novosibirsk,diamond
+15,Emily Reed,+79203892201,Samara,silver
+16,Taylor Martinez,+79909412369,Omsk,bronze
+17,Caleb Vasquez,+79746000479,Ufa,bronze
+18,John Delacruz,+79667236477,Chelyabinsk,silver
+19,Karen Romero,+79227592585,Ufa,silver
+20,Suzanne Ayers,+79449531698,Omsk,silver
+21,Erica Buckley,+79227723224,St. Petersburg,bronze
+22,Claire Hale,+79239319249,Yekaterinburg,silver
+23,Amanda Cortez,+79751563694,Kazan,silver
+24,Hayden Williams,+79771017195,St. Petersburg,silver
+25,Lacey Bradley,+79180607914,St. Petersburg,bronze
+26,Alan Jordan,+79800527669,Omsk,silver
+27,Mr. Travis Wiley,+79163331679,Chelyabinsk,bronze
+28,James Davis,+79394674171,Novosibirsk,gold
+29,Brandon Noble,+79855614620,Yekaterinburg,silver
+30,Michael Brown,+79860933940,Kazan,bronze
+31,Jennifer Diaz,+79986019602,Samara,silver
+32,Anthony Rodriguez,+79803132458,Ufa,silver
+33,Christopher Richardson,+79662851117,Chelyabinsk,bronze
+34,Christian Pope,+79071945606,Rostov-on-Don,silver
+35,Suzanne Navarro,+79093080912,Rostov-on-Don,gold
+36,Steven Bryant,+79594541306,Ufa,bronze
+37,Michael Jones,+79500158265,Novosibirsk,silver
+38,Kiara James,+79818907251,Ufa,silver
+39,Kathy Blevins,+79642603365,St. Petersburg,gold
+40,Katie Ball,+79201897864,Rostov-on-Don,bronze
+41,Sherri Green,+79894294304,Yekaterinburg,gold
+42,Manuel May,+79480322308,Samara,silver
+43,Gilbert Bishop,+79820052316,Novosibirsk,gold
+44,Daniel King,+79579657538,Omsk,bronze
+45,Steven Russell,+79392746916,Moscow,silver
+46,Alan Stewart,+79550444636,Samara,bronze
+47,Jason Faulkner,+79700154073,Rostov-on-Don,silver
+48,Jeffery Mccullough,+79150804900,Chelyabinsk,bronze
+49,Marcus Perez,+79973787613,Omsk,silver
+50,Larry Stephens,+79174315471,Rostov-on-Don,gold
+51,Sara Zhang,+79288254521,Chelyabinsk,bronze
+52,Paul Wolf,+79916216888,Chelyabinsk,bronze
+53,Dawn Schroeder,+79269919037,Nizhny Novgorod,bronze
+54,Martha Carlson,+79463557389,Chelyabinsk,bronze
+55,Lisa Holt,+79502849744,St. Petersburg,gold
+56,Brandon Lester,+79348301288,Kazan,gold
+57,Dennis Leach,+79663077207,Samara,diamond
+58,Robert Peters,+79796499916,Nizhny Novgorod,silver
+59,Bradley Perez,+79530664521,St. Petersburg,bronze
+60,Jonathan Lee,+79671885498,Moscow,bronze
+61,John Blair,+79318992035,Kazan,bronze
+62,Kimberly Chan,+79514174219,Moscow,bronze
+63,John Delacruz,+79314396880,St. Petersburg,bronze
+64,Renee Garcia,+79349490445,Nizhny Novgorod,bronze
+65,Michelle Wilkerson,+79762749678,Yekaterinburg,bronze
+66,Diane Miller,+79443976755,Moscow,bronze
+67,Angela Black,+79449123109,Yekaterinburg,bronze
+68,Matthew Coleman,+79079887067,Kazan,bronze
+69,Michael Arnold,+79067995570,Omsk,bronze
+70,Isaac Robinson,+79213872022,St. Petersburg,bronze
+71,Kimberly Miller,+79983962399,Yekaterinburg,diamond
+72,Richard Murray,+79707075947,Samara,bronze
+73,Mallory Harding,+79742113627,Chelyabinsk,silver
+74,Richard Evans,+79745683193,Samara,silver
+75,Stephen Hernandez,+79978780889,Novosibirsk,bronze
+76,Laura Sanchez,+79695114279,Samara,bronze
+77,Jeffrey Peterson,+79926983295,Nizhny Novgorod,diamond
+78,Kristie Lopez,+79141484409,Yekaterinburg,bronze
+79,Thomas Lopez,+79001205425,St. Petersburg,bronze
+80,Erin Schneider,+79877498973,Nizhny Novgorod,silver
+81,Jacob Kelly,+79479018870,Moscow,bronze
+82,Amanda Cortez,+79999760820,Nizhny Novgorod,bronze
+83,Stephen Hernandez,+79422943021,Nizhny Novgorod,diamond
+84,Meghan Cohen,+79345662336,St. Petersburg,silver
+85,Adam Avila,+79558241083,St. Petersburg,silver
+86,David Sandoval,+79128327504,Omsk,bronze
+87,Mr. Brian Carter,+79475089909,St. Petersburg,silver
+88,Henry Martin,+79199843226,Omsk,bronze
+89,Peter Morris,+79183822707,Moscow,silver
+90,John Santos,+79886672599,Rostov-on-Don,silver
+91,Jeremy Jackson,+79884431664,Novosibirsk,bronze
+92,Brett Lee,+79457236256,Rostov-on-Don,gold
+93,Amy White,+79086361626,St. Petersburg,silver
+94,Sarah Howell,+79850626830,Samara,gold
+95,Michael Rice,+79910616367,St. Petersburg,bronze
+96,Danielle Mccann,+79513955633,Kazan,bronze
+97,Jeffrey Becker,+79741632382,St. Petersburg,bronze
+98,Mandy Smith,+79520485053,Rostov-on-Don,bronze
+99,Gregory Fisher,+79673597932,Rostov-on-Don,bronze
+100,Jeffrey Peterson,+79458993851,Kazan,bronze
+101,Tyler Lopez,+79177738186,Yekaterinburg,silver
+102,Richard Williamson,+79289754503,Rostov-on-Don,silver
+103,Nancy Green,+79307433245,Omsk,bronze
+104,Deanna Thomas,+79500951816,Omsk,bronze
+105,Eric Horton,+79963004888,Moscow,bronze
+106,Shelby King,+79736292623,Ufa,silver
+107,Jessica Thornton,+79642115441,Chelyabinsk,bronze
+108,Valerie Stanton,+79257482354,Chelyabinsk,bronze
+109,Howard Zamora,+79125483609,Samara,gold
+110,Kevin Duarte,+79704115445,Moscow,bronze
+111,Elizabeth Lyons,+79283878815,Ufa,bronze
+112,Victoria Wright,+79817290872,Novosibirsk,bronze
+113,Michelle Herrera,+79217017311,Omsk,bronze
+114,Adam Frazier,+79972153574,Omsk,bronze
+115,Jesse Jimenez,+79355105460,Yekaterinburg,bronze
+116,Mr. John Thomas MD,+79309089897,Omsk,silver
+117,Joseph Ortiz,+79776225821,Ufa,silver
+118,Robin Sanchez,+79939695222,Ufa,bronze
+119,Latoya Jones,+79267331107,Kazan,bronze
+120,George Taylor,+79118671278,Yekaterinburg,silver
+121,Caitlin Cole,+79834991217,Novosibirsk,bronze
+122,Bianca Lee,+79563070939,Yekaterinburg,bronze
+123,Troy Hayes,+79874544760,Kazan,bronze
+124,Daniel Fuentes,+79427500154,Nizhny Novgorod,silver
+125,Diana Lee,+79215011318,St. Petersburg,silver
+126,Tricia Norman,+79557779349,Kazan,bronze
+127,Mikayla Rogers,+79427251923,Rostov-on-Don,bronze
+128,Jill Peters,+79554045896,Yekaterinburg,diamond
+129,Daniel Fuentes,+79256490595,Rostov-on-Don,silver
+130,Elizabeth Lyons,+79293362395,Samara,bronze
+131,Lisa Everett,+79332949590,Yekaterinburg,silver
+132,John Scott,+79418779164,Novosibirsk,silver
+133,Samantha Baldwin,+79798803154,Ufa,bronze
+134,Jesse Jimenez,+79823392910,Ufa,gold
+135,Matthew Reed,+79603977067,Ufa,bronze
+136,Beth Marquez,+79559405910,Kazan,diamond
+137,Dana White,+79540728718,Moscow,gold
+138,Mrs. Brandi Cook,+79867299176,Ufa,silver
+139,Nathan Mclaughlin,+79340727074,St. Petersburg,diamond
+140,Kelly Brown,+79745140670,Novosibirsk,bronze
+141,Christine Howe,+79046062682,Chelyabinsk,bronze
+142,Daniel Williams,+79943181125,Omsk,silver
+143,Richard Stephenson,+79457017225,Chelyabinsk,bronze
+144,Lawrence Martinez,+79005510513,St. Petersburg,diamond
+145,Frank Thomas,+79920431845,Ufa,silver
+146,Bruce Phillips,+79227072585,Kazan,diamond
+147,Kelli Willis,+79769191460,Rostov-on-Don,silver
+148,David Walker,+79014043769,Yekaterinburg,bronze
+149,Jeffrey Brooks,+79760385283,Nizhny Novgorod,gold
+150,Chad Foster,+79751324831,Samara,silver
+151,Travis Rodriguez,+79682907108,Nizhny Novgorod,bronze
+152,Ryan Hartman,+79588385946,Novosibirsk,bronze
+153,Shane Joyce,+79562673698,Chelyabinsk,silver
+154,Shaun Henry,+79778568793,Nizhny Novgorod,silver
+155,Marcus Perez,+79665404143,Samara,silver
+156,Lacey Bradley,+79892419472,Yekaterinburg,gold
+157,Destiny Watson,+79916855740,Yekaterinburg,silver
+158,Zachary Elliott,+79477043721,Samara,bronze
+159,John Blair,+79723737398,Moscow,gold
+160,Jeffrey Mora,+79050448192,Novosibirsk,silver
+161,Jessica Mason,+79605017925,Nizhny Novgorod,silver
+162,Kaitlin Gilbert,+79517120767,Rostov-on-Don,silver
+163,Bruce Phillips,+79677019499,Novosibirsk,gold
+164,Brooke Walker,+79076044831,Ufa,gold
+165,Ethan Vasquez,+79120215239,Kazan,bronze
+166,Michael Bell,+79719402794,Kazan,silver
+167,Alicia Roberts,+79178413543,St. Petersburg,bronze
+168,Christopher Stewart,+79469666544,Omsk,diamond
+169,Lawrence Martinez,+79933669871,Yekaterinburg,bronze
+170,Michael Morales,+79887866169,Nizhny Novgorod,diamond
+171,David Brennan,+79900567082,Chelyabinsk,silver
+172,Kathy Nash,+79257680071,Novosibirsk,silver
+173,Christine Howe,+79838771522,Samara,bronze
+174,Collin Fowler,+79801641798,Samara,gold
+175,Diana Lee,+79584367149,Chelyabinsk,bronze
+176,Bradley Rodriguez,+79396535604,Novosibirsk,silver
+177,Lori Peterson,+79707302041,Ufa,silver
+178,Nicole Fowler,+79102910854,Novosibirsk,silver
+179,Vicki Torres,+79139877264,Yekaterinburg,silver
+180,Jacob Allen,+79313540712,Nizhny Novgorod,bronze
+181,John Cox,+79737191852,Samara,silver
+182,Robert Peters,+79310836377,Nizhny Novgorod,gold
+183,David Brennan,+79621092401,Ufa,gold
+184,Aaron Porter,+79207734739,Moscow,bronze
+185,Michael Bell,+79317668985,Kazan,bronze
+186,Robert Smith,+79799194922,St. Petersburg,diamond
+187,Daniel Morrison,+79419343899,Nizhny Novgorod,silver
+188,Stephanie Gardner,+79048656479,Novosibirsk,bronze
+189,Brianna Tyler,+79273941355,Kazan,gold
+190,Michael Pierce,+79382393122,Ufa,bronze
+191,Amy Tucker,+79875574352,Chelyabinsk,bronze
+192,Shari Ray,+79404739862,Yekaterinburg,bronze
+193,Summer Parsons,+79613044342,Omsk,gold
+194,Brittany Russell,+79326670636,Chelyabinsk,silver
+195,Donald Gonzalez,+79325184828,Ufa,bronze
+196,Ashley Harmon,+79113438063,Samara,bronze
+197,John Delacruz,+79430742943,Novosibirsk,bronze
+198,Stephanie Long,+79194589583,Kazan,silver
+199,Lisa Bell,+79061226046,Kazan,gold
+200,Mark Miller DDS,+79284624789,Moscow,silver
+201,Vicki Torres,+79549249680,Rostov-on-Don,silver
+202,Dana Knapp,+79599344269,Novosibirsk,silver
+203,Casey Kelly,+79566609123,St. Petersburg,gold
+204,David Beard,+79648787239,Chelyabinsk,gold
+205,Daisy Stein,+79423243624,Rostov-on-Don,gold
+206,Christopher Stevenson,+79839661509,Nizhny Novgorod,bronze
+207,James Michael,+79902714492,Rostov-on-Don,bronze
+208,Levi Powers,+79889414944,Novosibirsk,silver
+209,James Pratt,+79576709199,Ufa,bronze
+210,Lee Porter,+79308170489,Novosibirsk,bronze
+211,Laurie Turner,+79150153799,Chelyabinsk,gold
+212,Joshua Vance,+79225036593,Nizhny Novgorod,gold
+213,Sandra Woods,+79342567800,Omsk,diamond
+214,Michael Rice,+79690483885,Yekaterinburg,silver
+215,Leslie Madden,+79957143640,Novosibirsk,silver
+216,Megan Christian,+79612752923,Novosibirsk,diamond
+217,Randy Harris,+79717158259,Yekaterinburg,bronze
+218,Michael Phillips,+79925282330,Yekaterinburg,silver
+219,Michael Jackson,+79483465519,Ufa,bronze
+220,Deborah Hamilton,+79954124737,St. Petersburg,gold
+221,Andrew Lewis,+79112875526,St. Petersburg,bronze
+222,Christopher Brown,+79019169690,Moscow,silver
+223,Danielle Stevens,+79928221149,Ufa,silver
+224,Shawn Oliver,+79762236597,Moscow,gold
+225,Lori Peterson,+79906088749,Chelyabinsk,silver
+226,Amanda Hutchinson,+79969172365,Nizhny Novgorod,bronze
+227,Meghan Cohen,+79219253120,Omsk,bronze
+228,Rebecca Luna,+79393819089,St. Petersburg,silver
+229,Robert Nelson,+79458142200,Novosibirsk,diamond
+230,Carla Mercer,+79526817428,Ufa,silver
+231,Heather Curry,+79402265996,Novosibirsk,bronze
+232,Angelica Jimenez,+79530772382,Omsk,silver
+233,Ashley Browning,+79812174430,Novosibirsk,silver
+234,Amanda Wilson,+79921163357,Novosibirsk,gold
+235,Anthony Williamson,+79882880698,Ufa,silver
+236,Mary Velasquez,+79121626153,Omsk,silver
+237,Dawn Schroeder,+79526941993,Novosibirsk,gold
+238,Benjamin Peters,+79443827468,Moscow,bronze
+239,Margaret Martinez,+79578794346,Rostov-on-Don,gold
+240,Nathan Robinson,+79039599450,Omsk,silver
+241,Michael Frye,+79209174090,Omsk,bronze
+242,Natalie Reid,+79988981138,Nizhny Novgorod,silver
+243,Taylor Martinez,+79870792773,Omsk,diamond
+244,Scott Travis,+79073710588,Chelyabinsk,bronze
+245,Tina Guzman,+79840380105,St. Petersburg,silver
+246,Jacob Allen,+79934022736,Kazan,bronze
+247,Andrew Lewis,+79194293905,Samara,gold
+248,Mr. Kevin Lamb DVM,+79108113974,St. Petersburg,diamond
+249,Charles Jones,+79284677547,Nizhny Novgorod,silver
+250,Dennis Gonzalez,+79079815093,Samara,bronze
+251,Bradley Perez,+79772799242,Ufa,silver
+252,Vanessa Gallagher,+79471949569,Kazan,bronze
+253,Troy Hayes,+79740270633,Novosibirsk,gold
+254,Brandon Noble,+79557100719,Novosibirsk,silver
+255,Adrian Jackson,+79912659407,Moscow,bronze
+256,Steven Zimmerman,+79923773180,Kazan,silver
+257,Susan Charles,+79199175691,St. Petersburg,silver
+258,Eugene Smith,+79479508482,Chelyabinsk,bronze
+259,Jerome Wright,+79531445686,Chelyabinsk,bronze
+260,Jason Faulkner,+79756376792,Chelyabinsk,bronze
+261,Jennifer Franco,+79325362271,Ufa,gold
+262,Elizabeth Wallace,+79641971120,Rostov-on-Don,silver
+263,Kayla Shepard,+79960075933,Ufa,bronze
+264,Jorge Edwards,+79912602226,St. Petersburg,bronze
+265,Cheryl Smith,+79666670921,Rostov-on-Don,bronze
+266,Dr. Alexander Roberts,+79206687063,Rostov-on-Don,silver
+267,Whitney Marks,+79159233021,Rostov-on-Don,bronze
+268,Vanessa Gallagher,+79495279181,Rostov-on-Don,bronze
+269,Tracy Garcia,+79597959133,Nizhny Novgorod,bronze
+270,Mary Reed,+79551311414,Kazan,silver
+271,Stacy Berg,+79943715895,Rostov-on-Don,bronze
+272,Renee Jordan,+79233217013,Omsk,diamond
+273,Mallory Harding,+79029433906,Moscow,silver
+274,Vanessa Scott,+79068783991,Nizhny Novgorod,silver
+275,Robin Sanchez,+79570735756,Moscow,silver
+276,Anthony Austin,+79202544731,Omsk,bronze
+277,Adrian Jackson,+79422706439,Moscow,bronze
+278,Shaun Henry,+79888138665,Samara,silver
+279,Eric Martinez,+79705520757,Rostov-on-Don,bronze
+280,David Walker,+79780808422,Ufa,bronze
+281,Alex Gonzales,+79066389692,Kazan,gold
+282,Gerald Cox,+79666005853,Rostov-on-Don,gold
+283,Amanda Davis,+79476472859,Kazan,bronze
+284,Vincent Robinson,+79046985601,St. Petersburg,silver
+285,Dennis Gonzalez,+79658323070,Yekaterinburg,bronze
+286,Brittany Thompson,+79117372821,Nizhny Novgorod,bronze
+287,Rebecca Brown,+79978526135,Yekaterinburg,silver
+288,Henry Martin,+79069104325,Kazan,bronze
+289,Alan Stewart,+79559179200,Ufa,diamond
+290,Glen Smith,+79924850939,Omsk,silver
+291,Angelica Jimenez,+79566036907,Novosibirsk,bronze
+292,Katie Singh,+79706574844,St. Petersburg,bronze
+293,Tonya Michael,+79577119209,Novosibirsk,silver
+294,Todd Cooper,+79237180636,Yekaterinburg,gold
+295,Aaron Lawson,+79278400568,Samara,bronze
+296,Kevin Curtis,+79985247041,Moscow,silver
+297,Jacqueline Pearson,+79267807922,Novosibirsk,bronze
+298,Tanya Lopez,+79612075220,Ufa,bronze
+299,Mallory Bean,+79822997093,Moscow,silver
+300,Justin Cooper,+79907668588,Rostov-on-Don,silver
+301,Tara Roberts,+79266362588,Yekaterinburg,bronze
+302,Ann Coleman,+79480143341,Kazan,bronze
+303,Mr. Brian Carter,+79409769952,Moscow,silver
+304,Beth Adams,+79078328565,Chelyabinsk,gold
+305,Lee Hicks,+79644431553,Yekaterinburg,bronze
+306,Anna Chang,+79235104470,St. Petersburg,bronze
+307,Diane Nunez,+79923827293,Omsk,silver
+308,Michelle Jones,+79024360106,Chelyabinsk,bronze
+309,Nathan Brown,+79633806757,Ufa,silver
+310,Elizabeth Wallace,+79711474885,Ufa,diamond
+311,David Young,+79813529096,Novosibirsk,gold
+312,Mark Miller DDS,+79587186885,Samara,bronze
+313,Gabriel Wilson,+79896812907,Nizhny Novgorod,silver
+314,Jeffrey Becker,+79844037202,Omsk,silver
+315,Brittany Russell,+79582785582,Samara,bronze
+316,Jacqueline Pham,+79049824045,Nizhny Novgorod,bronze
+317,Kenneth Jacobs,+79994730095,Novosibirsk,bronze
+318,Arthur Oconnor,+79025340732,Rostov-on-Don,silver
+319,Karen Romero,+79013762600,Rostov-on-Don,bronze
+320,John Moreno,+79167397315,Chelyabinsk,gold
+321,Vicki Blackburn,+79467823470,Chelyabinsk,silver
+322,Sandra Rodriguez,+79217489284,Samara,bronze
+323,Nathan Brown,+79869310660,Novosibirsk,bronze
+324,Natasha Stephenson,+79503946474,Novosibirsk,silver
+325,Henry Martin,+79733527355,Samara,silver
+326,Adrian Harvey,+79147295191,Omsk,silver
+327,Nicholas Jackson,+79663264658,Rostov-on-Don,silver
+328,Joshua Vance,+79972279696,Ufa,silver
+329,Paula Strickland,+79231917290,Chelyabinsk,bronze
+330,Paul Ryan,+79952301831,Samara,bronze
+331,Mark Farrell,+79176374694,St. Petersburg,bronze
+332,Kimberly Love,+79617639058,St. Petersburg,bronze
+333,Lauren Nichols,+79138168452,Samara,silver
+334,Mark Valentine,+79874570071,Omsk,diamond
+335,Henry Martin,+79505409862,Omsk,diamond
+336,Pamela Smith,+79866425228,Rostov-on-Don,silver
+337,Erin Garcia,+79243901437,Novosibirsk,bronze
+338,Brian Boyd,+79575700009,Omsk,bronze
+339,Keith Cantrell,+79663470015,Nizhny Novgorod,gold
+340,Adam Avila,+79312343805,Nizhny Novgorod,silver
+341,Lee Hicks,+79143391929,Rostov-on-Don,silver
+342,Jeffrey Jimenez,+79718788902,Omsk,diamond
+343,Brandon Noble,+79159156340,St. Petersburg,bronze
+344,Charles Jones,+79429080390,Ufa,gold
+345,John Santos,+79609126791,Nizhny Novgorod,silver
+346,Brett Lee,+79290579583,Moscow,silver
+347,Maria Jones,+79745490717,Samara,gold
+348,Stephanie Hester,+79661828091,Samara,silver
+349,Nathan Lozano,+79293651224,Ufa,silver
+350,Francisco Anderson,+79260997203,Kazan,bronze
+351,Jamie Leach,+79768032062,Moscow,silver
+352,Christina Griffin,+79634832036,Samara,silver
+353,Jeanne Nelson,+79576107328,Nizhny Novgorod,bronze
+354,Francisco Anderson,+79849948311,Rostov-on-Don,bronze
+355,Brandi Pierce,+79016253301,Samara,silver
+356,Ann Kirk,+79829440322,Chelyabinsk,bronze
+357,Stacy Berg,+79610828437,Yekaterinburg,gold
+358,Jacob Duarte,+79298757606,Omsk,bronze
+359,David Beard,+79202644913,Samara,diamond
+360,Joseph Ortiz,+79685340917,Rostov-on-Don,bronze
+361,Amy Hodges,+79862030673,Nizhny Novgorod,diamond
+362,Keith Cantrell,+79911776030,Moscow,bronze
+363,Jessica Watts,+79014693185,Nizhny Novgorod,diamond
+364,Brandon White,+79559398339,Chelyabinsk,silver
+365,Danielle Lee,+79870041985,Moscow,bronze
+366,Diane Miller,+79240780006,Samara,silver
+367,Greg Keller,+79274766215,Ufa,silver
+368,Eugene Smith,+79225998528,Samara,silver
+369,Damon Gray,+79911712131,Nizhny Novgorod,bronze
+370,Joseph Jackson,+79023191408,Omsk,gold
+371,Brittney Herring,+79001198238,Moscow,bronze
+372,Summer Parsons,+79384447134,Rostov-on-Don,bronze
+373,Mary Wilkinson,+79408526024,Ufa,bronze
+374,Amy Mcclure,+79173494798,Omsk,diamond
+375,Mikayla Rogers,+79451793141,St. Petersburg,bronze
+376,Michaela Hill,+79726188572,Kazan,bronze
+377,Jessica Potts,+79367142750,Rostov-on-Don,bronze
+378,Wendy Dickson,+79273084671,Yekaterinburg,diamond
+379,Robert Bentley,+79508149633,Chelyabinsk,bronze
+380,Christopher Wang,+79779723823,Yekaterinburg,bronze
+381,Zachary Rodriguez,+79598325970,Chelyabinsk,silver
+382,Jessica Brown DDS,+79733578162,Yekaterinburg,silver
+383,Ryan Padilla,+79609366607,Ufa,bronze
+384,Joe Daniel MD,+79051007608,Novosibirsk,gold
+385,Stephanie Wong,+79780338521,Moscow,silver
+386,Charles Calhoun,+79492683262,Kazan,bronze
+387,Andre Morris,+79086593910,Omsk,bronze
+388,Michael Meyer,+79036213222,Omsk,gold
+389,Hannah Hendrix,+79478775413,Nizhny Novgorod,diamond
+390,Stefanie Rios,+79543433914,Novosibirsk,bronze
+391,Mr. John Thomas MD,+79782843894,Rostov-on-Don,bronze
+392,Alex Watts,+79122676575,Moscow,silver
+393,Karen Douglas,+79634072860,Novosibirsk,silver
+394,Christopher Wang,+79050585252,Omsk,diamond
+395,Matthew Mullen,+79623146119,Ufa,diamond
+396,Adam Frazier,+79788422384,Chelyabinsk,bronze
+397,Edward Keller,+79606391469,Samara,bronze
+398,Kellie Pena,+79285994069,Rostov-on-Don,bronze
+399,Emily Reed,+79895387749,St. Petersburg,bronze
+400,Timothy Howell,+79790829840,Chelyabinsk,bronze
+401,Alyssa Wagner,+79075666849,Ufa,bronze
+402,Nicole Fowler,+79539170416,Samara,silver
+403,Joe Daniel MD,+79802027517,Omsk,silver
+404,Donna Thompson,+79322356087,Nizhny Novgorod,bronze
+405,Matthew Davis,+79973747379,Yekaterinburg,bronze
+406,William Moore,+79475627551,Rostov-on-Don,silver
+407,Brenda Moore,+79185355964,Rostov-on-Don,silver
+408,Jennifer Collins,+79883743853,Chelyabinsk,gold
+409,Howard Zamora,+79656640643,Ufa,bronze
+410,James Davis,+79282924257,Samara,bronze
+411,Maria Jones,+79755971198,Ufa,bronze
+412,Gilbert Bishop,+79873416417,Samara,bronze
+413,Kenneth Ball,+79766452705,Samara,diamond
+414,Christopher Richardson,+79714713608,Samara,bronze
+415,Donna Drake,+79206964162,Samara,diamond
+416,Adrian Harvey,+79403600797,Yekaterinburg,gold
+417,Michael Jackson,+79071928418,Kazan,bronze
+418,Julian Jordan,+79557447389,Chelyabinsk,silver
+419,Sophia Hernandez,+79342429866,Moscow,silver
+420,Christopher Richardson,+79671602855,Novosibirsk,bronze
+421,Kelli Willis,+79922201089,Omsk,gold
+422,William Mendez,+79203818310,Moscow,gold
+423,Debra Sullivan,+79735046874,Novosibirsk,silver
+424,Sandra Garner,+79269456658,St. Petersburg,bronze
+425,Alan Stewart,+79105810917,Samara,bronze
+426,Michael Thompson,+79726048435,Yekaterinburg,gold
+427,Lisa Wiley,+79098701550,Novosibirsk,bronze
+428,Michael Thompson,+79589722636,Chelyabinsk,gold
+429,Jeffrey Calderon,+79455031600,Rostov-on-Don,silver
+430,Paul Ryan,+79382006677,Nizhny Novgorod,bronze
+431,Donald Gonzalez,+79997598699,Nizhny Novgorod,gold
+432,Donald Brown,+79179431131,Rostov-on-Don,bronze
+433,Robert Gonzalez,+79891474855,Chelyabinsk,silver
+434,John Villa,+79820589667,St. Petersburg,bronze
+435,Laura Bowen,+79143270585,Yekaterinburg,gold
+436,Thomas Roberts,+79715428383,Kazan,silver
+437,Tiffany Edwards,+79756657768,Novosibirsk,bronze
+438,Mary Richard,+79880403493,Kazan,bronze
+439,Randy Harris,+79771715717,St. Petersburg,diamond
+440,Amanda Brown,+79751404223,Omsk,bronze
+441,Jamie Smith,+79839605412,Omsk,silver
+442,Jerome Wright,+79124403489,Samara,bronze
+443,Ian Forbes,+79346314049,Rostov-on-Don,bronze
+444,Brianna Tyler,+79937409247,Ufa,bronze
+445,Ethan Vasquez,+79698148858,Omsk,silver
+446,Joseph Jackson,+79933631356,Ufa,bronze
+447,Mary Wilkinson,+79542819333,Moscow,gold
+448,Adrian Harvey,+79616210713,Novosibirsk,gold
+449,Tara Hernandez,+79971933912,Chelyabinsk,gold
+450,Charles Fitzpatrick,+79697508157,Yekaterinburg,silver
+451,Renee Jordan,+79156256828,Samara,diamond
+452,Brittany Duncan,+79571238863,Chelyabinsk,bronze
+453,Courtney Barnes,+79759427911,Omsk,diamond
+454,Laura Bowen,+79120985844,Yekaterinburg,bronze
+455,Michael Pierce,+79475593510,Rostov-on-Don,bronze
+456,Kristy Beard,+79321216850,Ufa,bronze
+457,Daisy Stein,+79669133461,Ufa,silver
+458,Jeremiah Cantu,+79990072682,Moscow,bronze
+459,Sabrina Gilbert,+79204953034,Chelyabinsk,bronze
+460,Johnathan Harris,+79089464331,Novosibirsk,gold
+461,Christopher Brown,+79509730905,Nizhny Novgorod,silver
+462,Angela Garcia,+79691768429,St. Petersburg,bronze
+463,John Lewis,+79678122782,Nizhny Novgorod,silver
+464,Jennifer Blackwell,+79292838352,Yekaterinburg,bronze
+465,Ronald Morgan,+79986480689,Novosibirsk,bronze
+466,James Little,+79477123164,St. Petersburg,silver
+467,Charles Fitzpatrick,+79150577298,Novosibirsk,gold
+468,Nicholas Mckay,+79536375343,Moscow,silver
+469,Ms. Tracy Moore,+79993400594,Chelyabinsk,gold
+470,Cory Guzman,+79556805459,Nizhny Novgorod,gold
+471,Sarah Drake,+79249686965,Omsk,diamond
+472,Sherri Green,+79980506313,Yekaterinburg,bronze
+473,John Shah,+79296125096,Samara,gold
+474,Kevin Curtis,+79465499062,Moscow,bronze
+475,Alan Stewart,+79504908192,Rostov-on-Don,silver
+476,Joseph Lee,+79905683402,Rostov-on-Don,silver
+477,Karen Romero,+79940241727,Nizhny Novgorod,bronze
+478,Richard Stephenson,+79335455697,Omsk,gold
+479,Sara Zhang,+79448564348,Rostov-on-Don,bronze
+480,Thomas Robinson,+79143748499,Moscow,silver
+481,Dawn Schroeder,+79119676093,Omsk,bronze
+482,Michele Johnson,+79479536154,St. Petersburg,silver
+483,Margaret Beck,+79290163901,Omsk,silver
+484,Kevin Flores,+79018123498,Rostov-on-Don,diamond
+485,Erin Garcia,+79958656792,Yekaterinburg,bronze
+486,Brian Burns,+79680367057,Rostov-on-Don,bronze
+487,Jeffrey Jimenez,+79962124371,Samara,gold
+488,Regina Williams,+79408634232,Yekaterinburg,bronze
+489,Erika Wood,+79722622074,Rostov-on-Don,silver
+490,Robert Jackson,+79812323743,Omsk,silver
+491,Michael Thompson,+79724403420,Omsk,gold
+492,Michael Odom,+79279622827,St. Petersburg,silver
+493,Cameron Berry,+79888143975,Rostov-on-Don,silver
+494,John Rodriguez,+79135714870,St. Petersburg,silver
+495,Sophia Hernandez,+79261505857,St. Petersburg,bronze
+496,Daniel Williams,+79220228985,Rostov-on-Don,silver
+497,Anna Glover,+79485056530,Nizhny Novgorod,silver
+498,Mark Coleman,+79870670076,Ufa,silver
+499,Bobby Williams,+79236406140,Moscow,silver
+500,Edward Becker,+79795299770,Omsk,silver
+501,Sylvia Knight,+79580734252,Chelyabinsk,bronze
+502,Tom Adams,+79466105256,Nizhny Novgorod,bronze
+503,Isaiah Zhang,+79832699662,Chelyabinsk,bronze
+504,John Shah,+79403924726,Yekaterinburg,silver
+505,Kevin Flores,+79997983795,Nizhny Novgorod,silver
+506,Joseph Cooper,+79047864757,Samara,bronze
+507,Michael Stanley,+79319594572,Yekaterinburg,bronze
+508,Justin Rowe,+79901402450,Omsk,bronze
+509,Ashley Browning,+79793341051,Rostov-on-Don,bronze
+510,Bobby Gardner,+79088941102,St. Petersburg,bronze
+511,Eric Hill,+79389373659,Omsk,bronze
+512,Kimberly Miller,+79276977350,Novosibirsk,gold
+513,Daniel Calhoun,+79732034749,St. Petersburg,bronze
+514,Christine Howe,+79022715761,Novosibirsk,silver
+515,Bryce Rivera,+79375259078,Yekaterinburg,bronze
+516,Evan Porter,+79689439987,Chelyabinsk,silver
+517,Ronald Morgan,+79197405260,Moscow,diamond
+518,Meghan Cohen,+79177248806,Rostov-on-Don,silver
+519,Charles Young,+79062856217,Rostov-on-Don,bronze
+520,Steven Zimmerman,+79078200866,Nizhny Novgorod,bronze
+521,Lisa Parker,+79644378226,Nizhny Novgorod,bronze
+522,Megan Newman,+79357184665,Kazan,silver
+523,Brett Lee,+79872910146,Chelyabinsk,bronze
+524,Tiffany Williams,+79570808735,Nizhny Novgorod,bronze
+525,Anne Walker,+79785701505,Rostov-on-Don,bronze
+526,Marie White,+79842949919,St. Petersburg,gold
+527,Carla Mclaughlin,+79621767007,Ufa,gold
+528,James Proctor,+79692852437,Nizhny Novgorod,bronze
+529,Cynthia Porter,+79727452178,Chelyabinsk,bronze
+530,Amanda Hutchinson,+79795360758,Novosibirsk,bronze
+531,Patrick Silva,+79338220600,Nizhny Novgorod,silver
+532,Dalton Callahan,+79385051520,Chelyabinsk,diamond
+533,Michael Jackson,+79989958509,Kazan,gold
+534,Ann Kirk,+79038166420,Ufa,bronze
+535,Brianna Anthony,+79886861169,Moscow,bronze
+536,Matthew Johnson,+79823153997,Novosibirsk,silver
+537,Kevin Flores,+79400579365,Ufa,bronze
+538,Tiffany Edwards,+79384232518,Nizhny Novgorod,bronze
+539,Jeffrey Becker,+79876266002,Omsk,silver
+540,Paul Wolf,+79865762199,Nizhny Novgorod,silver
+541,Tracey Delgado,+79376253884,Rostov-on-Don,bronze
+542,Dylan White,+79270530516,Novosibirsk,bronze
+543,Zachary Elliott,+79866857407,Moscow,gold
+544,Dale Stephenson,+79578746261,Chelyabinsk,diamond
+545,Stacy Garza,+79237303919,Yekaterinburg,silver
+546,Kevin Osborn,+79392354946,Rostov-on-Don,silver
+547,Mark Farrell,+79101596426,Samara,bronze
+548,John Lewis,+79553305046,Kazan,bronze
+549,Levi Powers,+79451682797,Samara,silver
+550,Walter King,+79517668720,St. Petersburg,silver
+551,Erica Henderson,+79611795370,Samara,bronze
+552,Anna Chang,+79250287907,Chelyabinsk,bronze
+553,Howard Zamora,+79789914733,Novosibirsk,bronze
+554,Connie Moore DVM,+79546913018,Chelyabinsk,silver
+555,Todd Cooper,+79214083291,Nizhny Novgorod,bronze
+556,Anthony Williamson,+79709820427,St. Petersburg,bronze
+557,Heidi Murphy,+79437357001,Kazan,silver
+558,Cory Guzman,+79573037462,Samara,silver
+559,Thomas Lopez,+79466525271,Samara,bronze
+560,Gregory Pierce,+79001786662,Omsk,gold
+561,Shelby King,+79759183808,Yekaterinburg,bronze
+562,Jessica Harvey,+79392363531,Ufa,bronze
+563,Latasha Melton,+79557855404,Kazan,gold
+564,Sarah Howell,+79387047574,Moscow,bronze
+565,Joseph Ford,+79590522901,Chelyabinsk,silver
+566,David Brown,+79698743943,Rostov-on-Don,bronze
+567,Karen Brennan,+79673041787,Nizhny Novgorod,diamond
+568,Mr. Robert Webb Jr.,+79628627667,Novosibirsk,silver
+569,Jacqueline Pham,+79328845890,Chelyabinsk,bronze
+570,Michele Little,+79888950560,Samara,silver
+571,Eugene Smith,+79095474081,Omsk,bronze
+572,William Pruitt,+79094074879,Nizhny Novgorod,bronze
+573,Tonya Harris,+79732458216,Nizhny Novgorod,gold
+574,Amber Moore,+79381979694,St. Petersburg,bronze
+575,Richard Stephenson,+79793090910,Nizhny Novgorod,bronze
+576,Patrick Silva,+79300728145,St. Petersburg,silver
+577,Amy Hodges,+79278304092,Ufa,silver
+578,Kimberly Miller,+79306650837,Moscow,gold
+579,Mark Frazier,+79085266872,Yekaterinburg,silver
+580,Patrick Frank,+79276299907,Kazan,bronze
+581,Daniel Brown,+79889295735,Yekaterinburg,silver
+582,Matthew Coleman,+79170732722,Moscow,bronze
+583,Keith Gordon,+79350149627,Omsk,bronze
+584,Jennifer Lyons,+79356592242,Omsk,bronze
+585,Dana Robinson,+79332319398,Moscow,silver
+586,Adam Casey,+79369749979,Chelyabinsk,gold
+587,Michelle Herrera,+79989447228,Novosibirsk,bronze
+588,Brian Burns,+79205976111,St. Petersburg,diamond
+589,James Clay,+79484367628,Kazan,silver
+590,Nicole Brown,+79921061366,Yekaterinburg,silver
+591,Bryan Martinez,+79916638002,Omsk,bronze
+592,Claire Hale,+79440557917,Ufa,silver
+593,Shane Murphy,+79565739175,Ufa,bronze
+594,Lydia Robinson,+79618030706,Nizhny Novgorod,bronze
+595,Kimberly Love,+79190377132,Novosibirsk,silver
+596,Sara Velez,+79539258328,Moscow,silver
+597,Tina Clark,+79408456166,St. Petersburg,silver
+598,Matthew Lozano,+79576706166,Novosibirsk,gold
+599,Jill Mercado,+79915056921,Novosibirsk,gold
+600,Cynthia Porter,+79586757364,Ufa,silver
+601,Laura Bowen,+79340472616,Kazan,silver
+602,Michael Frye,+79270917994,Moscow,silver
+603,John Cox,+79348022499,Kazan,silver
+604,Kimberly Turner,+79363816031,Yekaterinburg,silver
+605,Heather Terry,+79521243778,Moscow,bronze
+606,Johnathan Martin,+79424074967,Rostov-on-Don,silver
+607,Sabrina Gilbert,+79206313820,St. Petersburg,diamond
+608,Heidi Murphy,+79184565708,Ufa,gold
+609,Erin Garcia,+79083598457,Kazan,gold
+610,Julie Khan,+79124894336,Kazan,bronze
+611,Tammy Thomas,+79337974126,Yekaterinburg,silver
+612,Megan Christian,+79749292966,St. Petersburg,gold
+613,Sherri Green,+79387655664,Chelyabinsk,bronze
+614,Krista Clark,+79313231011,Chelyabinsk,diamond
+615,Travis Rodriguez,+79915709111,Rostov-on-Don,bronze
+616,Amy Flores,+79358154849,Novosibirsk,silver
+617,Mark Valentine,+79122246340,Chelyabinsk,silver
+618,John Clarke,+79600081694,Kazan,silver
+619,Tara Roberts,+79610752287,Rostov-on-Don,bronze
+620,Hector Hill,+79250230581,Rostov-on-Don,bronze
+621,Laurie Smith,+79254988760,Moscow,bronze
+622,Thomas Robinson,+79263184419,Nizhny Novgorod,bronze
+623,Susan Beltran,+79958569889,Rostov-on-Don,silver
+624,John Cox,+79852428539,Samara,silver
+625,Whitney Marks,+79101326040,Moscow,gold
+626,Caleb Morrison,+79863577782,Rostov-on-Don,diamond
+627,Margaret Martinez,+79047454742,Omsk,bronze
+628,Robert Smith,+79882046846,Nizhny Novgorod,gold
+629,Miss Jennifer Pugh,+79533227935,Novosibirsk,silver
+630,Ian Forbes,+79640853792,St. Petersburg,bronze
+631,Travis Rodriguez,+79602667158,Ufa,gold
+632,Sarah Foster,+79600805717,Moscow,silver
+633,Nathan Weiss,+79255017329,Rostov-on-Don,bronze
+634,Marc Dodson,+79282351208,St. Petersburg,bronze
+635,Robert Jones,+79736563738,Yekaterinburg,bronze
+636,Jessica Davis,+79299415361,Yekaterinburg,diamond
+637,Eric Horton,+79908473890,Kazan,silver
+638,Stacy Berg,+79352432417,Yekaterinburg,silver
+639,Jeffrey Brooks,+79006510390,St. Petersburg,bronze
+640,Colleen Torres,+79712002709,Nizhny Novgorod,bronze
+641,Angela Garcia,+79376350296,Chelyabinsk,bronze
+642,Susan Beltran,+79589767530,Omsk,bronze
+643,Eric Doyle,+79454970933,Kazan,bronze
+644,Joshua Maynard,+79191452464,Yekaterinburg,silver
+645,Jonathan Burke,+79521484725,Kazan,bronze
+646,Jeffrey Becker,+79041242029,Omsk,bronze
+647,Troy Hughes,+79922274042,Novosibirsk,bronze
+648,Ernest Rivera,+79809060002,Nizhny Novgorod,bronze
+649,Justin Schaefer,+79345107165,Ufa,bronze
+650,Jerome Cruz,+79670317693,Moscow,gold
+651,Renee Hutchinson,+79575127369,Samara,silver
+652,David Henderson,+79370956375,St. Petersburg,diamond
+653,Kathryn Davis,+79487938677,Rostov-on-Don,gold
+654,Jamie Smith,+79129410279,Moscow,bronze
+655,Tara Roberts,+79882301917,Chelyabinsk,gold
+656,Sara Zhang,+79870783558,Nizhny Novgorod,silver
+657,Crystal Gonzalez,+79196023151,Moscow,gold
+658,Charles Parker,+79599995500,Rostov-on-Don,silver
+659,Rhonda Holt,+79655130390,Moscow,silver
+660,Mary Reed,+79621416095,Yekaterinburg,silver
+661,Jeffrey Reynolds,+79323511828,Rostov-on-Don,bronze
+662,Aaron Porter,+79319801309,Moscow,bronze
+663,Tom Adams,+79796585511,St. Petersburg,bronze
+664,Curtis Huerta,+79746262418,Yekaterinburg,diamond
+665,Ashley Browning,+79760349964,Ufa,bronze
+666,Joshua Miller,+79422216479,St. Petersburg,gold
+667,Courtney Wallace,+79770680934,St. Petersburg,bronze
+668,Bryce Rivera,+79216056117,St. Petersburg,bronze
+669,Tina Clark,+79730267407,Rostov-on-Don,bronze
+670,David Anthony II,+79988757335,Chelyabinsk,silver
+671,Eric Martinez,+79880915091,Kazan,gold
+672,Kellie Pena,+79410930585,Chelyabinsk,gold
+673,Douglas Smith,+79638795923,Rostov-on-Don,bronze
+674,William Alvarado,+79622386347,Yekaterinburg,gold
+675,Joseph Ortiz,+79886652471,Novosibirsk,bronze
+676,Laura Bowen,+79785319369,St. Petersburg,silver
+677,Russell Nunez,+79836552872,St. Petersburg,silver
+678,Levi Powers,+79038336318,St. Petersburg,silver
+679,Kevin Curtis,+79983812941,Samara,silver
+680,Carla Mclaughlin,+79468719574,Nizhny Novgorod,silver
+681,Michael Daniel,+79663928934,Novosibirsk,bronze
+682,Donna Clark,+79809214131,Ufa,silver
+683,Kayla Fowler,+79825939052,St. Petersburg,silver
+684,Brittany Thompson,+79719414983,Yekaterinburg,gold
+685,Nicholas Mckay,+79479957979,Ufa,silver
+686,Lauren Nichols,+79217632038,Novosibirsk,silver
+687,Laurie Hall,+79855840031,Ufa,bronze
+688,Brian Davis,+79773713513,Samara,silver
+689,Matthew Reed,+79463770329,Moscow,bronze
+690,Michael Bell,+79805948401,Nizhny Novgorod,diamond
+691,Tina Martin,+79627041048,Samara,bronze
+692,Joshua Green,+79805453850,St. Petersburg,silver
+693,John Scott,+79574225204,Omsk,silver
+694,Caleb Morrison,+79821849351,Omsk,bronze
+695,Deborah Hamilton,+79931402113,St. Petersburg,gold
+696,Donna Drake,+79079084245,Moscow,bronze
+697,Lydia Robinson,+79580422601,Omsk,bronze
+698,Robert Schaefer,+79748777832,St. Petersburg,gold
+699,James Mack,+79977531568,Kazan,gold
+700,Danielle Lee,+79904727790,Moscow,bronze
+701,Lisa Wiley,+79491322664,Yekaterinburg,bronze
+702,Lisa Johnson,+79498578787,Yekaterinburg,gold
+703,Andrew Larsen MD,+79984506951,Yekaterinburg,silver
+704,Suzanne Ayers,+79254521995,Rostov-on-Don,gold
+705,Amber Harris,+79559389600,St. Petersburg,bronze
+706,Mary Richard,+79397326886,Samara,bronze
+707,Caitlin Cole,+79846577135,St. Petersburg,diamond
+708,Robert Chavez,+79611260268,Rostov-on-Don,gold
+709,Dana Robinson,+79626412165,Omsk,silver
+710,Dana White,+79667249369,Moscow,gold
+711,Calvin Aguilar,+79444916812,Rostov-on-Don,bronze
+712,Theresa Smith,+79376138500,Nizhny Novgorod,silver
+713,Andrea Carlson,+79970682858,Omsk,bronze
+714,Jeremiah Cantu,+79431072816,Omsk,bronze
+715,Martha Carlson,+79305786540,Yekaterinburg,gold
+716,Sara Smith,+79517596950,Omsk,silver
+717,Heather Sims,+79509270654,Kazan,gold
+718,Mikayla Rogers,+79595948974,Samara,bronze
+719,Tiffany Edwards,+79773395851,Omsk,bronze
+720,Kimberly Ritter,+79600542691,Yekaterinburg,bronze
+721,Amy Wilson,+79097316085,Rostov-on-Don,silver
+722,Beth Adams,+79443856554,St. Petersburg,bronze
+723,Sabrina Gilbert,+79275548643,Omsk,bronze
+724,Kevin Bennett,+79153726851,Rostov-on-Don,bronze
+725,Joel Johnson,+79683681134,Ufa,silver
+726,Tyrone Johnson,+79346263608,Rostov-on-Don,bronze
+727,Sherri Green,+79208004172,Ufa,gold
+728,Stephanie Wong,+79784238830,Samara,bronze
+729,Sarah Williams,+79160322598,Novosibirsk,silver
+730,Donna Buchanan,+79191861076,Ufa,bronze
+731,Anthony Williamson,+79664239524,Samara,bronze
+732,Donna Ortiz,+79519701617,Samara,silver
+733,John Weber,+79724709114,Novosibirsk,bronze
+734,Ann Coleman,+79245527191,Nizhny Novgorod,gold
+735,Diane Nunez,+79637175227,Ufa,silver
+736,Mark Valentine,+79139430685,Novosibirsk,gold
+737,Emily Reed,+79344405762,Rostov-on-Don,bronze
+738,Brett Lee,+79732843360,Chelyabinsk,diamond
+739,Stacy Massey,+79705549917,Yekaterinburg,gold
+740,Eric Hall,+79644240138,Moscow,gold
+741,Cory Guzman,+79847974236,Yekaterinburg,silver
+742,Jacob Duarte,+79412777327,Samara,silver
+743,Ann Kirk,+79417208767,Moscow,gold
+744,Jill Mercado,+79238435454,Omsk,bronze
+745,Amanda Hutchinson,+79704016516,Moscow,gold
+746,Eric Horton,+79461402943,Nizhny Novgorod,silver
+747,Megan Newman,+79155992899,St. Petersburg,diamond
+748,Tara Roberts,+79323597459,St. Petersburg,silver
+749,Bethany Hull,+79941745687,Novosibirsk,silver
+750,Ryan Lawson,+79240312488,Omsk,silver
+751,Brittany Duncan,+79864057162,St. Petersburg,silver
+752,Wayne Ponce,+79494469794,Samara,bronze
+753,Stacy Garza,+79028609954,St. Petersburg,bronze
+754,Meredith Anderson,+79889294768,Moscow,bronze
+755,Terry Flowers,+79377593133,Omsk,gold
+756,Mark Miller DDS,+79943163810,Kazan,gold
+757,Candice Myers,+79620352425,Novosibirsk,gold
+758,Elizabeth Lyons,+79371843097,St. Petersburg,diamond
+759,Stacy Massey,+79916212191,Yekaterinburg,bronze
+760,Melissa Moore,+79308454528,Rostov-on-Don,gold
+761,Loretta Phillips,+79181676391,Moscow,bronze
+762,Glenn Rivera,+79814664620,Moscow,bronze
+763,Michael Powell,+79389427500,Novosibirsk,bronze
+764,Kimberly Powell,+79141401156,Moscow,bronze
+765,Peter Morris,+79513485682,Samara,bronze
+766,Jeremiah Cantu,+79786735436,Moscow,bronze
+767,Jennifer Adams,+79154237749,Yekaterinburg,silver
+768,Michelle Carroll,+79610844714,Rostov-on-Don,gold
+769,Mary Richard,+79677396755,Ufa,bronze
+770,Dr. Matthew Chapman,+79455986485,Omsk,silver
+771,Kellie Pena,+79073318195,Samara,bronze
+772,Keith Cantrell,+79904272264,St. Petersburg,silver
+773,Cameron Berry,+79014571764,Kazan,silver
+774,Jonathan Burke,+79998670664,Nizhny Novgorod,bronze
+775,Margaret Beck,+79727574237,St. Petersburg,gold
+776,Erin Garcia,+79846006464,Moscow,silver
+777,Robert Reed,+79612934388,Moscow,diamond
+778,Ann Coleman,+79240576381,Nizhny Novgorod,bronze
+779,Anne Walker,+79997052717,Nizhny Novgorod,bronze
+780,Brian Boyd,+79020855796,Omsk,silver
+781,Ashley Harmon,+79060564479,Yekaterinburg,bronze
+782,Daniel Fuentes,+79723256047,Moscow,bronze
+783,Mrs. Joanna Leonard,+79139168376,Yekaterinburg,gold
+784,Corey Bowen,+79068239691,Omsk,bronze
+785,Kirsten Marshall,+79108109743,Omsk,bronze
+786,Jeffrey Barker,+79282808073,Moscow,diamond
+787,Sylvia Mcgee,+79308883406,Rostov-on-Don,gold
+788,Edward Robinson,+79883313926,Kazan,gold
+789,Wendy Camacho,+79035890996,Yekaterinburg,bronze
+790,Jason Faulkner,+79845615944,St. Petersburg,gold
+791,Elizabeth Clark,+79362557803,Kazan,bronze
+792,Jeffrey Brooks,+79640146449,Yekaterinburg,bronze
+793,Robert Smith,+79996034907,St. Petersburg,diamond
+794,Melissa Moore,+79635608544,Omsk,silver
+795,Mitchell Phillips,+79521681421,Novosibirsk,bronze
+796,Latoya Harris,+79293391381,Novosibirsk,gold
+797,Emily Johnson,+79542850400,Yekaterinburg,silver
+798,Elizabeth Lyons,+79281009010,Chelyabinsk,bronze
+799,Tyler Morton,+79643767352,Omsk,silver
+800,Charles Calhoun,+79027348205,St. Petersburg,silver
+801,Abigail Brown,+79299844597,Novosibirsk,silver
+802,Tara Osborne,+79817997144,Moscow,silver
+803,John Ingram,+79755835645,St. Petersburg,bronze
+804,Collin Fowler,+79548622363,Yekaterinburg,bronze
+805,Teresa Fisher,+79664175535,Ufa,gold
+806,Laurie Smith,+79232940017,Novosibirsk,silver
+807,Christopher George,+79369087941,Rostov-on-Don,diamond
+808,Daisy Stein,+79475323905,St. Petersburg,silver
+809,Karen Larsen,+79278757419,Rostov-on-Don,bronze
+810,Lisa Sullivan,+79371530986,Omsk,silver
+811,Michelle Wilkerson,+79311025738,St. Petersburg,diamond
+812,Jeffrey Johnson,+79702898459,Novosibirsk,silver
+813,Elizabeth Goodman,+79148332783,Moscow,silver
+814,Robert Brown,+79143408089,Yekaterinburg,silver
+815,Amy Tucker,+79427637102,Chelyabinsk,bronze
+816,Brandon Lester,+79725844370,St. Petersburg,bronze
+817,Tina Finley,+79993512422,Ufa,bronze
+818,Alyssa Wagner,+79878098696,Rostov-on-Don,silver
+819,Tanner Henderson,+79308446407,St. Petersburg,silver
+820,Brandi Pierce,+79500129879,Chelyabinsk,bronze
+821,Brianna Anthony,+79857610405,Omsk,silver
+822,Lisa Walls,+79781757758,Kazan,silver
+823,Paul Wolf,+79314567431,Yekaterinburg,bronze
+824,Ruben Torres,+79831923465,Kazan,gold
+825,Wayne Ponce,+79106872388,Nizhny Novgorod,silver
+826,Andrew Larsen MD,+79957371897,Ufa,silver
+827,Katie Ball,+79188521639,Ufa,gold
+828,Michael Perez,+79772248017,St. Petersburg,bronze
+829,Laurie Hall,+79759511332,Samara,bronze
+830,Gregory Pruitt,+79566513700,Nizhny Novgorod,bronze
+831,Chad Foster,+79480368217,Omsk,bronze
+832,Darrell Mcbride,+79073817476,Novosibirsk,silver
+833,Scott Ortiz,+79780079025,Moscow,bronze
+834,Crystal Jenkins,+79345548714,Kazan,bronze
+835,Christopher Chapman,+79422939559,St. Petersburg,diamond
+836,Sherri Clark,+79116687293,Novosibirsk,bronze
+837,Randy Solomon,+79388036746,Kazan,bronze
+838,Andrew Lewis,+79348248419,Samara,bronze
+839,Shannon Harris,+79081963817,Nizhny Novgorod,bronze
+840,Rachel Jensen,+79913590265,Chelyabinsk,bronze
+841,Elizabeth Duran,+79081828612,Rostov-on-Don,bronze
+842,Melinda Buchanan,+79514150737,Kazan,silver
+843,Shannon Mercer,+79489634850,Rostov-on-Don,gold
+844,Jeffery Byrd,+79162029382,Kazan,silver
+845,Levi Butler,+79794828937,Samara,silver
+846,Caitlin Cole,+79108198140,St. Petersburg,silver
+847,Tara Roberts,+79002728773,Ufa,gold
+848,Michael Morales,+79230473169,Ufa,diamond
+849,Richard Evans,+79663744990,Kazan,gold
+850,Tanya Lopez,+79925723370,Nizhny Novgorod,diamond
+851,Tina Martin,+79479380040,Ufa,bronze
+852,Larry Stephens,+79803057742,Ufa,bronze
+853,Jorge Edwards,+79218361662,Yekaterinburg,silver
+854,Robert Gonzalez,+79324466668,Samara,bronze
+855,Michael Perez,+79139539417,Moscow,bronze
+856,Laurie Smith,+79209634068,St. Petersburg,bronze
+857,Kimberly Turner,+79290174364,Novosibirsk,gold
+858,Anna Chang,+79158236012,Nizhny Novgorod,bronze
+859,Gabriel Wilson,+79409119512,Yekaterinburg,bronze
+860,Shannon Huff,+79279048578,Chelyabinsk,silver
+861,Sandra Keller,+79634217208,Novosibirsk,bronze
+862,Tyler Morton,+79461888233,Ufa,silver
+863,Damon Gray,+79851934661,Yekaterinburg,gold
+864,Jason King,+79384533030,Rostov-on-Don,bronze
+865,Sara Smith,+79666379152,Omsk,bronze
+866,Brenda Hall,+79242349236,St. Petersburg,bronze
+867,Tyler Shaffer,+79127323307,Rostov-on-Don,silver
+868,Frank Peters,+79737266512,Ufa,silver
+869,Kelli Willis,+79687049859,Nizhny Novgorod,silver
+870,Carla Morris,+79923794824,Omsk,silver
+871,Susan Beltran,+79974272263,Novosibirsk,silver
+872,Timothy Pacheco,+79234703811,Yekaterinburg,gold
+873,Lisa Garza,+79689014871,Nizhny Novgorod,bronze
+874,Shari Ray,+79403548661,Kazan,diamond
+875,David Walker,+79208206430,Yekaterinburg,diamond
+876,Kenneth Ball,+79312992460,St. Petersburg,bronze
+877,Michael Meyer,+79359703310,Omsk,gold
+878,Alex Watts,+79934396134,Kazan,bronze
+879,Alicia Higgins,+79620781004,St. Petersburg,bronze
+880,Ashley Oconnor,+79453780787,Ufa,bronze
+881,Alan Stewart,+79050823555,Chelyabinsk,bronze
+882,Karen Romero,+79099824083,Yekaterinburg,bronze
+883,David White,+79678647653,Novosibirsk,bronze
+884,Gerald Cox,+79373900250,Rostov-on-Don,bronze
+885,Carla Morris,+79322207595,St. Petersburg,bronze
+886,Holly Hodge,+79900506309,St. Petersburg,bronze
+887,Debra Sullivan,+79605788844,Novosibirsk,silver
+888,Karen Romero,+79338960217,Ufa,bronze
+889,Candice Myers,+79273305321,Kazan,diamond
+890,Joshua Byrd,+79161279137,Ufa,bronze
+891,Olivia Bartlett,+79020116098,Moscow,silver
+892,Autumn Brennan,+79374999077,Ufa,diamond
+893,Timothy Romero,+79053368185,Omsk,silver
+894,Marcus Daniels,+79670517537,Novosibirsk,gold
+895,Jessica Mason,+79273279015,Kazan,bronze
+896,Jessica Cox,+79834246232,Novosibirsk,gold
+897,Taylor Chavez,+79488749931,Kazan,bronze
+898,Tonya Harris,+79027816014,St. Petersburg,diamond
+899,Robert Jackson,+79127614883,Omsk,bronze
+900,Samantha Herring,+79283705507,Moscow,bronze
+901,John Lewis,+79739533426,Samara,bronze
+902,Madeline Gonzalez,+79109565976,Nizhny Novgorod,gold
+903,Tanya Lopez,+79860588592,St. Petersburg,bronze
+904,Richard Robinson,+79809761391,Nizhny Novgorod,silver
+905,Nancy Mcguire,+79365989770,Ufa,bronze
+906,Brittney Herring,+79109950657,Omsk,bronze
+907,Christina Griffin,+79400840339,Kazan,bronze
+908,Robert Reed,+79206638144,Novosibirsk,bronze
+909,Brandon Ferrell,+79270625343,Yekaterinburg,diamond
+910,Richard Robinson,+79320541292,Samara,silver
+911,Christopher Owens,+79023073723,Chelyabinsk,bronze
+912,Bryan Martinez,+79076231740,Rostov-on-Don,gold
+913,Tara Hernandez,+79012021842,Nizhny Novgorod,bronze
+914,Robert Jones,+79119069861,Moscow,bronze
+915,Jason Wolf,+79529415825,Chelyabinsk,bronze
+916,Sean Mason,+79154482067,Chelyabinsk,silver
+917,Jillian Mccall,+79630839665,Kazan,bronze
+918,Mrs. Brandi Cook,+79135330390,Novosibirsk,bronze
+919,Tara Hernandez,+79443484506,Yekaterinburg,bronze
+920,Scott Stark,+79613754287,St. Petersburg,silver
+921,Kevin Osborn,+79364947577,Chelyabinsk,bronze
+922,Jeanette Clark,+79063983192,Samara,bronze
+923,James Sandoval,+79628244355,Omsk,silver
+924,Levi Powers,+79485297462,Nizhny Novgorod,diamond
+925,Julie Khan,+79740548101,Yekaterinburg,gold
+926,Elizabeth Goodman,+79568791314,Samara,gold
+927,Tonya Luna,+79662215005,Nizhny Novgorod,silver
+928,Suzanne Navarro,+79152357659,Ufa,bronze
+929,John Weber,+79727414644,Nizhny Novgorod,gold
+930,Candace Daniels,+79787516992,St. Petersburg,bronze
+931,Megan Newman,+79703418157,Ufa,gold
+932,Aaron Morris,+79866173236,Omsk,gold
+933,Gary Garcia,+79982568168,Yekaterinburg,silver
+934,Troy Hughes,+79781341928,Samara,bronze
+935,Amanda Hutchinson,+79419916317,St. Petersburg,silver
+936,Curtis Huerta,+79011745406,Omsk,diamond
+937,Adrian Jackson,+79980105364,Kazan,bronze
+938,Mr. John Thomas MD,+79974250063,Omsk,gold
+939,Michael Frye,+79619230174,St. Petersburg,bronze
+940,Christopher Stewart,+79139019710,Novosibirsk,silver
+941,Mr. Travis Wiley,+79916028200,Novosibirsk,bronze
+942,Leslie Madden,+79666713772,Ufa,gold
+943,Joseph Cooper,+79649136350,Omsk,gold
+944,James Mack,+79368803190,Moscow,silver
+945,Ashley Jones,+79248170576,Kazan,silver
+946,Mr. Travis Wiley,+79356693462,Nizhny Novgorod,silver
+947,Michael Russell,+79800058010,Omsk,diamond
+948,Elizabeth Key,+79215473117,Samara,silver
+949,Susan Charles,+79697594683,Novosibirsk,bronze
+950,Chloe Peck,+79379968832,Rostov-on-Don,bronze
+951,Sherri Long,+79033795111,Nizhny Novgorod,bronze
+952,Brandy Howell,+79708363174,Samara,bronze
+953,Matthew Lozano,+79879822324,Moscow,gold
+954,David Beard,+79039191917,Yekaterinburg,bronze
+955,Brianna Anthony,+79462484648,Novosibirsk,silver
+956,Krystal Allen,+79815248020,Chelyabinsk,bronze
+957,Lauren Nichols,+79899268153,Moscow,bronze
+958,Cory Cox,+79894583421,St. Petersburg,silver
+959,Tina Martin,+79070639162,Moscow,bronze
+960,Gerald Cox,+79508409211,Novosibirsk,bronze
+961,Kyle Simmons,+79724333276,Moscow,silver
+962,Charles Chandler,+79192340509,Chelyabinsk,bronze
+963,Kathryn Davis,+79116987888,Moscow,bronze
+964,Frank Peters,+79606153292,Rostov-on-Don,silver
+965,Jessica Davis,+79262543608,Nizhny Novgorod,gold
+966,Elizabeth Butler,+79693107015,St. Petersburg,silver
+967,Reginald Arias,+79298818899,Chelyabinsk,silver
+968,Shannon Harris,+79945000571,Samara,bronze
+969,Randall Blankenship,+79692181018,Kazan,bronze
+970,Hannah Hendrix,+79157556452,Kazan,bronze
+971,Jennifer Collins,+79606585204,Rostov-on-Don,silver
+972,Brandon Phillips,+79674001420,Yekaterinburg,diamond
+973,Brandon Noble,+79703081588,Rostov-on-Don,diamond
+974,Joel Johnson,+79023921655,Rostov-on-Don,silver
+975,Eric Ramos,+79700781284,Nizhny Novgorod,silver
+976,Dawn Schroeder,+79023663461,Novosibirsk,bronze
+977,Cory Cox,+79593493435,Omsk,silver
+978,Brandon Carter,+79982985700,Ufa,bronze
+979,Billy Clayton,+79217971305,Nizhny Novgorod,silver
+980,Bruce Hall,+79427061782,Yekaterinburg,bronze
+981,Adam Frazier,+79286398417,Samara,silver
+982,Dalton Callahan,+79974300724,Moscow,bronze
+983,Shawn Oliver,+79067888815,Rostov-on-Don,silver
+984,Isaiah Zhang,+79669891881,Omsk,gold
+985,Aaron Morris,+79683974264,Chelyabinsk,silver
+986,Vicki Torres,+79526367566,Ufa,bronze
+987,William Johnson,+79400768463,Samara,bronze
+988,Laura Sanchez,+79946976130,Chelyabinsk,diamond
+989,William Miles,+79482438771,Rostov-on-Don,gold
+990,Sylvia Knight,+79511193481,Samara,silver
+991,Sally Taylor,+79724780483,Yekaterinburg,gold
+992,Nicole Jones,+79697363243,St. Petersburg,gold
+993,Larry Harding,+79856422778,Rostov-on-Don,diamond
+994,Brian Burns,+79820702435,Moscow,diamond
+995,Leslie Madden,+79294506497,Novosibirsk,silver
+996,Paula Strickland,+79605433169,Samara,diamond
+997,Dalton Callahan,+79657774578,Yekaterinburg,bronze
+998,David Simmons,+79002048080,Omsk,bronze
+999,Valerie Stanton,+79117197776,Nizhny Novgorod,gold
+1000,Jerome Cruz,+79321353262,Chelyabinsk,diamond
