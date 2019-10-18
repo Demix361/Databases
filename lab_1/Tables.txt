@@ -1,6 +1,6 @@
 
 ===== MAIN TABLES =====
-PRODUCT
+PRODUCT (product_gen.py - ready)
 - product_id (123.456.78) - unique
 - name
 - category
