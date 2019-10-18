@@ -52,7 +52,7 @@ def generate_products(amount, filename):
 	products = []
 	name_pool = get_name_pool("swe_nouns.txt") # unique
 	id_pool = get_id_pool(amount) # unique
-	table_header = "product_id,name,category,color,cost\n"
+	table_header = "id,name,category,color,cost\n"
 
 	color_pool = ["black", "white", "pink", "yellow", "gold", "light red",
 	"turquoise", "olive drab", "orchid", "brown", "orange", "purple",
