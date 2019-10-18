@@ -6,5 +6,16 @@ create table if not exists product (
 	cost money not null
 );
 
-COPY product(id, name, category, color, cost) 
-FROM 'S:\GitHub\Databases\lab_1\gen_folder\product.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF-8';
+--COPY product(id, name, category, color, cost) 
+--FROM 'S:\GitHub\Databases\lab_1\gen_folder\product.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF-8';
+
+create table if not exists store (
+	id varchar(20) not null primary key,
+	city varchar(50) not null,
+	street varchar(50) not null,
+	house varchar(30) not null,
+	postal_code int not null
+);
+
+COPY store(id, city, street, house, postal_code)
+FROM 'S:\GitHub\Databases\lab_1\gen_folder\stores.txt' DELIMITER ',' CSV HEADER ENCODING 'UTF-8';
