@@ -93,7 +93,7 @@ def to_line(*args):
 	return res
 
 
-def generate_clients(amount, filename):
+def generate_client(amount, filename):
 	clients = []
 	male, female = get_name_pool(amount)
 	phone_pool = get_phone_pool(amount)
@@ -121,4 +121,4 @@ def generate_clients(amount, filename):
 
 
 if __name__ == "__main__":
-	generate_clients(1000, "client.csv")
+	generate_client(1000, "client.csv")

@@ -51,7 +51,7 @@ def to_str(store):
 	return store.city + "," + store.street + "," + store.house + "," + store.code + "\n"
 
 
-def generate_stores(amount, filename):
+def generate_store(amount, filename):
 	address_pool = get_address_pool(1000)
 	city_pool = get_city_pool(500)
 	stores = []
@@ -70,4 +70,4 @@ def generate_stores(amount, filename):
 
 
 if __name__ == "__main__":
-	generate_stores(1000, "store.csv")
+	generate_store(1000, "store.csv")

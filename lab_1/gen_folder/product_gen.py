@@ -48,7 +48,7 @@ def to_str(product):
 	product.color + "," + str(product.cost) + "\n"
 
 
-def generate_products(amount, filename):
+def generate_product(amount, filename):
 	products = []
 	name_pool = get_name_pool("swe_nouns.txt") # unique
 	id_pool = get_id_pool(amount) # unique
@@ -90,4 +90,4 @@ def generate_products(amount, filename):
 
 
 if __name__ == "__main__":
-	generate_products(1000, "product.csv")
+	generate_product(1000, "product.csv")
