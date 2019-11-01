@@ -1,3 +1,5 @@
+drop table if exists product cascade;
+
 create table if not exists product (
 	id varchar(10) not null primary key,
 	name varchar(50) not null,
@@ -6,9 +8,8 @@ create table if not exists product (
 	cost money not null
 );
 
-COPY product(id, name, category, color, cost) 
-FROM 'S:\GitHub\Databases\lab_1\gen_folder\product.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF-8';
 
+drop table if exists store cascade;
 
 create table if not exists store (
 	id serial not null primary key,
@@ -18,9 +19,8 @@ create table if not exists store (
 	postal_code int not null
 );
 
-COPY store(city, street, house, postal_code)
-FROM 'S:\GitHub\Databases\lab_1\gen_folder\store.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF-8';
 
+drop table if exists client cascade;
 
 create table if not exists client (
 	id serial not null primary key,
@@ -32,9 +32,8 @@ create table if not exists client (
 	status varchar(20) not null
 );
 
-COPY client(first_name, last_name, sex, phone, email, status)
-FROM 'S:\GitHub\Databases\lab_1\gen_folder\client.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF-8';
 
+drop table if exists job cascade;
 
 create table if not exists job (
 	id serial not null primary key,
@@ -42,19 +41,17 @@ create table if not exists job (
 	salary int not null
 );
 
-COPY job(position, salary)
-FROM 'S:\GitHub\Databases\lab_1\gen_folder\job.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF-8';
 
+drop table if exists stock cascade;
 
 create table if not exists stock (
-	store_id int references store(id),
-	product_id varchar(10) references product(id),
+	store_id int not null,
+	product_id varchar(10) not null,
 	quantity int not null
 );
 
-COPY stock(store_id, product_id, quantity)
-FROM 'S:\GitHub\Databases\lab_1\gen_folder\stock.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF-8';
 
+drop table if exists employee cascade;
 
 create table if not exists employee (
 	employee_id serial not null primary key,
@@ -67,9 +64,8 @@ create table if not exists employee (
 	job_id int references job(id)
 );
 
-COPY employee(first_name, last_name, sex, phone, email, store_id, job_id)
-FROM 'S:\GitHub\Databases\lab_1\gen_folder\employee.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF-8';
 
+drop table if exists purchase cascade;
 
 create table if not exists purchase (
 	client_id int references client(id),
@@ -79,5 +75,9 @@ create table if not exists purchase (
 	purchase_time varchar(20) not null
 );
 
-COPY purchase(client_id, product_id, store_id, amount, purchase_time)
-FROM 'S:\GitHub\Databases\lab_1\gen_folder\purchase.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF-8';
+
+alter table store
+ADD CONSTRAINT postal_code CHECK (postal_code > 0);
+
+--\i 'S:/GitHub/Databases/lab_1/create.sql'
+--insert into job values('Грузчик', 300000);
