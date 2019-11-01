@@ -5,7 +5,7 @@ create table if not exists product (
 	name varchar(50) not null,
 	category varchar(50) not null,
 	color varchar(30) not null,
-	cost money not null
+	cost decimal(19, 4) not null
 );
 
 
