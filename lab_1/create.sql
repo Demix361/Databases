@@ -68,11 +68,12 @@ create table if not exists employee (
 drop table if exists purchase cascade;
 
 create table if not exists purchase (
+	id serial not null primary key,
 	client_id int references client(id),
 	product_id varchar(10) references product(id),
 	store_id int references store(id),
 	amount int not null,
-	purchase_time varchar(20) not null
+	purchase_time timestamp not null
 );
 
 
