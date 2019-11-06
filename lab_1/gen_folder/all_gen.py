@@ -34,12 +34,12 @@ def generate_all(amount, product_db, store_db, client_db, job_db, stock_db, empl
 	print("ORDER", '{:.2f}'.format(time() - beg))
 
 	beg = time()
-	generate_order_product(amount * 20, order_product_db, order_db, product_db)
+	generate_order_product(order_product_db, order_db, product_db)
 	print("ORDER_PRODUCT", '{:.2f}'.format(time() - beg))
 
 
 if __name__ == "__main__":
 	generate_all(1000, "product.csv", "store.csv", "client.csv", "job.csv", "stock.csv", "employee.csv", "order.csv", "order_product.csv")
 
-#\i 'S:/GitHub/Databases/lab_1/code.sql'
-#\i 'S:/GitHub/Databases/lab_1/drop.sql'
+#\i 'S:/GitHub/Databases/lab_1/create.sql'
+#\i 'S:/GitHub/Databases/lab_1/insert.sql'

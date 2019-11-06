@@ -66,9 +66,9 @@ create table if not exists employee (
 );
 
 
-drop table if exists order cascade;
+drop table if exists orders cascade;
 
-create table if not exists order (
+create table if not exists orders (
 	id serial not null primary key,
 	client_id int not null references client(id),
 	store_id int not null references store(id),
@@ -80,8 +80,8 @@ create table if not exists order (
 drop table if exists order_product cascade;
 
 create table if not exists order_product (
-	order_id int not null references order(id),
-	product_id varchar(10) references product(id),
+	order_id int not null references orders(id),
+	product_id varchar(10) not null references product(id),
 	amount int not null,
 	primary key (order_id, product_id)
 );

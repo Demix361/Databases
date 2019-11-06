@@ -16,5 +16,8 @@ FROM 'S:\GitHub\Databases\lab_1\gen_folder\stock.csv' DELIMITER ',' CSV HEADER E
 COPY employee(first_name, last_name, sex, phone, email, store_id, job_id)
 FROM 'S:\GitHub\Databases\lab_1\gen_folder\employee.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF-8';
 
-COPY purchase(client_id, product_id, store_id, amount, purchase_time)
-FROM 'S:\GitHub\Databases\lab_1\gen_folder\purchase.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF-8';
+COPY orders(client_id, store_id, cashier_id, order_time)
+FROM 'S:\GitHub\Databases\lab_1\gen_folder\order.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF-8';
+
+COPY order_product(order_id, product_id, amount)
+FROM 'S:\GitHub\Databases\lab_1\gen_folder\order_product.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF-8';

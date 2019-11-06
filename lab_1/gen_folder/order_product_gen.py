@@ -1,4 +1,4 @@
-from random import randint
+from random import randint, choice
 
 
 class OrderProduct():
@@ -33,22 +33,50 @@ def to_line(*args):
 	return res
 
 
-def generate_order_product(amount, filename, order_db, product_db):
+def get_product_pool(filename):
+	pool = []
+	i = 0
+
+	with open(filename, "r", encoding="utf-8") as f:
+		for line in f:
+			if i != 0:
+				product_id = line[:line.find(",")]
+
+				pool.append(product_id)
+			else:
+				i += 1
+
+	return pool
+
+
+def generate_order_product(filename, order_db, product_db):
 	order_products = []
 	order_amount = get_amount(order_db)
-	product_amount = get_amount(product_db)
+	product_pool = get_product_pool(product_db)
 	table_header = "order_id,product_id,amount\n"
 
-	for i in range(amount):
-		o = OrderProduct()
-		o.order_id = randint(1, order_amount)
-		o.product_id = randint(1, product_amount)
-		if randint(0, 1) == 0:
-			o.amount = 1
-		else:
-			o.amount = randint(2, 10)
+	for i in range(order_amount):
+		used_products = []
+		position_amount = randint(1, 8)
+		for j in range(position_amount):
+			o = OrderProduct()
 
-		order_products.append(o)
+			o.order_id = i + 1
+
+			while True:
+				product = choice(product_pool)
+
+				if product not in used_products:
+					used_products.append(product)
+					o.product_id = product
+					break
+
+			if randint(0, 1) == 0:
+				o.amount = 1
+			else:
+				o.amount = randint(2, 10)
+
+			order_products.append(o)
 
 	with open(filename, "w", encoding="utf-8") as f:
 		f.write(table_header)
@@ -57,4 +85,4 @@ def generate_order_product(amount, filename, order_db, product_db):
 
 
 if __name__ == "__main__":
-	generate_order_product(1000, "order_product.csv", "order.csv", "product.csv")
+	generate_order_product("order_product.csv", "order.csv", "product.csv")
