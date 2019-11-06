@@ -11,7 +11,7 @@ class Stock():
 def get_store_amount(filename):
 	i = 0
 
-	with open(filename, "r") as f:
+	with open(filename, "r", encoding="utf-8") as f:
 		for line in f:
 			i += 1
 
@@ -22,7 +22,7 @@ def get_product_pool(filename):
 	pool = []
 	i = 0
 
-	with open(filename, "r") as f:
+	with open(filename, "r", encoding="utf-8") as f:
 		for line in f:
 			if i != 0:
 				product_id = line[:line.find(",")]
@@ -52,7 +52,7 @@ def generate_stock(filename, product_db, store_db):
 			stock.quantity = randint(0, 500)
 			stock_list.append(stock)
 
-	with open(filename, "w") as f:
+	with open(filename, "w", encoding="utf-8") as f:
 		f.write(table_header)
 		for s in stock_list:
 			f.write(to_str(s))

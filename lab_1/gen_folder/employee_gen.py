@@ -67,7 +67,7 @@ def get_email_pool(amount):
 def get_store_amount(filename):
 	i = 0
 
-	with open(filename, "r") as f:
+	with open(filename, "r", encoding="utf-8") as f:
 		for line in f:
 			i += 1
 
@@ -77,7 +77,7 @@ def get_store_amount(filename):
 def get_job_amount(filename):
 	i = 0
 
-	with open(filename, "r") as f:
+	with open(filename, "r", encoding="utf-8") as f:
 		for line in f:
 			i += 1
 
@@ -121,7 +121,10 @@ def generate_employee(amount, filename, store_db, job_db):
 		employee.email = email_pool[i]
 
 		employee.store_id = randint(1, store_amount)
-		employee.job_id = randint(1, job_amount)
+		if randint(1,7) == 1:
+			employee.job_id = randint(1, 2)
+		else:
+			employee.job_id = randint(3, job_amount)
 
 		employees.append(employee)
 
