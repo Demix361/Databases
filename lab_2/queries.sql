@@ -1,7 +1,6 @@
 --\i 'S:/GitHub/Databases/lab_2/queries.sql'
 
 
-/*
 
 --#1
 --Названия всех красных предметов, цена которых ниже 10000
@@ -23,6 +22,8 @@ where job.position like '%менеджер%';
 
 --#4
 --id покупок всех товаров в категории 'Кофейный столик', в 2019 году
+select order_product.product_id, product.category,  
+/*
 select purchase.id, product.category, purchase.purchase_time
 from purchase
 join product on purchase.product_id = product.id
@@ -32,7 +33,7 @@ where purchase.product_id in
 		from product
 		where category = 'Coffee table'
 		) and purchase.purchase_time between '2019-01-01 00:00:00' and '2019-12-31 23:59:59';
-
+*/
 --#5
 --Продукты, которые не покупали в 2019 году
 select * 
@@ -116,7 +117,7 @@ where id in (
 );
 
 
-*/
+
 
 --#12
 -- 
