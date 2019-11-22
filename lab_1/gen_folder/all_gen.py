@@ -30,7 +30,7 @@ def generate_all(amount, product_db, store_db, client_db, job_db, stock_db, empl
 	print("EMPLOYEE", '{:.2f}'.format(time() - beg))
 
 	beg = time()
-	generate_order(amount * 5, order_db, client_db, store_db, employee_db)
+	generate_order(amount * 50, order_db, client_db, store_db, employee_db)
 	print("ORDER", '{:.2f}'.format(time() - beg))
 
 	beg = time()

@@ -80,7 +80,7 @@ def generate_order(amount, filename, client_db, store_db, employee_db):
 		o.client_id = randint(1, client_amount)
 		o.store_id = randint(1, store_amount)
 		o.cashier_id = choice(cashier_pool)
-		o.order_time = get_datetime("2013-03-10", "2019-09-06")
+		o.order_time = get_datetime("2013-01-01", "2019-12-31")
 
 		orders.append(o)
 

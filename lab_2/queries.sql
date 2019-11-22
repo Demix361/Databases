@@ -1,11 +1,11 @@
 --\i 'S:/GitHub/Databases/lab_2/queries.sql'
 
 
-
 --#1
 --Названия всех красных предметов, цена которых ниже 10000
 select name, color, cost from product
 where product.color = 'red' and product.cost < 10000;
+
 
 --#2
 --Сотрудники с зарплатой от 20000 до 50000
@@ -14,36 +14,40 @@ from employee
 join job on employee.job_id = job.id
 where job.salary between 30000 and 40000;
 
+
 --#3
 --Все должности, в названии которых имеется слово 'менеджер'
 select job.position
 from job
 where job.position like '%менеджер%';
 
+
 --#4
 --id покупок всех товаров в категории 'Кофейный столик', в 2019 году
-select order_product.product_id, product.category,  
-/*
-select purchase.id, product.category, purchase.purchase_time
-from purchase
-join product on purchase.product_id = product.id
-where purchase.product_id in
-	(
-		select id
-		from product
-		where category = 'Coffee table'
-		) and purchase.purchase_time between '2019-01-01 00:00:00' and '2019-12-31 23:59:59';
-*/
+select orders.id as order_id, product.name, product.category, orders.order_time
+from orders
+join order_product on orders.id = order_product.order_id
+join product on order_product.product_id = product.id
+where order_product.product_id in
+(
+	select id
+	from product
+	where category = 'Coffee table'
+) and orders.order_time between '2019-01-01 00:00:00' and '2019-12-31 23:59:59'
+order by orders.order_time;
+
+
 --#5
---Продукты, которые не покупали в 2019 году
-select * 
-from product
-where not exists (
-	select * 
-	from purchase
-	where product.id = purchase.product_id
-	and purchase.purchase_time between '2019-01-01 00:00:00' and '2019-12-31 23:59:59'
-);
+--Покупатели, которые совершили покупки 31 декабря
+select first_name, last_name
+from client c
+where exists (
+	select 1
+	from orders o
+	where o.client_id = c.id and
+	o.order_time between '2019-12-31 00:00:00' and '2019-12-31 23:59:59'
+)
+order by first_name, last_name;
 
 
 --#6
@@ -57,66 +61,53 @@ where cost > all (
 );
 
 
---#7
+--#7 Инструкция SELECT, использующая агрегатные функции в выражениях столбцов.
 -- Количества проданных продуктов
-select product.id, product.name, product.category, count(*) as sold_qty
-from product join purchase
-	on product.id = purchase.product_id
-group by product.id;
+select order_product.product_id, p.name, p.category, sum(order_product.amount) as amount_sold
+from order_product
+join product p on order_product.product_id = p.id
+group by order_product.product_id, p.category, p.name;
 
 
---#8
+--#8 Инструкция SELECT, использующая скалярные подзапросы в выражениях столбцов.
 --???
 
 
---#9
+--#9 Инструкция SELECT, использующая простое выражение CASE
 -- Клиенты, распределенные по статусу
-select client.first_name, client.last_name,
+select c.id, c.first_name, c.last_name,
 	case status
-		when 'diamond' then 4
-		when 'gold' then 3
-		when 'silver' then 2
-		else 1
-	end as rang
-from client;
+		when 'diamond' then 20
+		when 'gold' then 10
+		when 'silver' then 5
+		else 0
+	end as discount
+from client c;
 
 
---#10
+--#10 Инструкция SELECT, использующая поисковое выражение CASE.
 -- Сотрудники, распределенные по рангу зарплаты
-select employee.first_name, employee.last_name, job.salary,
+select e.first_name, e.last_name, j.salary,
 	case
-		when job.salary < 30000 then 1
-		when job.salary < 60000 then 2
-		when job.salary < 90000 then 3
+		when j.salary < 30000 then 1
+		when j.salary < 60000 then 2
+		when j.salary < 90000 then 3
 		else 4
-	end as salary_rang
-from employee
-join job on employee.job_id = job.id;
+	end as salary_class
+from employee e
+join job j on e.job_id = j.id;
 
 
---#11
--- Магазины, в которых есть сотрудники с максимальным рангом зарплаты
-select store.*
-into premium_store
-from store
-where id in (
-	select store.id
-	from store join (
-		select store_id,
-			case
-				when job.salary < 30000 then 1
-				when job.salary < 60000 then 2
-				when job.salary < 90000 then 3
-				else 4
-			end as salary_rang
-		from employee
-		join job on employee.job_id = job.id
-	) as m
-		on store.id = m.store_id
-		where m.salary_rang = '4'
-);
-
-
+--#11 Создание новой временной локальной таблицы из результирующего набора данных инструкции SELECT.
+-- Временная таблица с кассирами, обслужившими наибольшее число покупателей в 2018
+select e.id, e.first_name, e.last_name, count(*) as served
+into temp best_cashiers
+from employee e
+join orders o on e.id = o.cashier_id
+where o.order_time between '2019-01-01 00:00:00' and '2019-12-31 23:59:59'
+group by e.id, e.first_name, e.last_name
+order by served desc
+limit 30;
 
 
 --#12
