@@ -1,3 +1,4 @@
+from job_gen import generate_job
 from product_gen import generate_product
 from store_gen import generate_store
 from client_gen import generate_client
@@ -9,6 +10,10 @@ from time import time
 
 
 def generate_all(amount, product_db, store_db, client_db, job_db, stock_db, employee_db, order_db, order_product_db):
+	beg = time()
+	generate_job(job_db)
+	print("JOB", '{:.2f}'.format(time() - beg))
+
 	beg = time()
 	generate_product(amount, product_db)
 	print("PRODUCT", '{:.2f}'.format(time() - beg))
