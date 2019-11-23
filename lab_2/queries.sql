@@ -110,6 +110,57 @@ order by served desc
 limit 30;
 
 
---#12
--- 
+--#12 Инструкция SELECT, использующая вложенные коррелированные подзапросы в качестве производных таблиц в предложении FROM.
+-- Таблица с покупателями и продавцами, которые их обслуживали
+select c.first_name as client_first_name,
+       c.last_name as client_last_name,
+       order_cashier.first_name as cashier_first_name,
+       order_cashier.last_name as cashier_last_name,
+       order_cashier.order_time
+from client c join
+(
+	orders o join
+	employee e on o.cashier_id = e.id
+) as order_cashier on order_cashier.client_id = c.id
+order by order_cashier.order_time;
+
+
+--#13 Инструкция SELECT, использующая вложенные подзапросы с уровнем вложенности 3.
+--Все магазины, в которых покупали товар с названием 'skörda'
+select *
+from store s
+where s.id in
+(
+	select e.store_id
+	from employee e
+	join orders o on e.id = o.cashier_id
+	where o.id in
+	(
+		select op.order_id
+		from order_product op
+		join product p2 on op.product_id = p2.id
+		where p2.id =
+		(
+			select p.id
+			from product p
+			where p.name = 'skörda'
+		)
+	)
+);
+
+
+--#14 Инструкция SELECT, консолидирующая данные с помощью предложения GROUP BY, но без предложения HAVING.
+-- Средняя стоимость заказа во всех магазинах
+select s.id, avg(op.amount * p.cost) as avg_order_cost, min(op.amount * p.cost) as min_order_cost
+from store s
+join orders o on s.id = o.store_id
+join order_product op on o.id = op.order_id
+join product p on op.product_id = p.id
+group by s.id;
+
+select o.store_id, count(*)
+from orders o
+join order_product op on o.id = op.order_id
+where o.store_id = 1
+group by o.store_id;
 
