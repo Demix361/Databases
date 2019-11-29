@@ -15,28 +15,33 @@ def generate_all(amount, product_db, store_db, client_db, job_db, stock_db, empl
 	print("JOB", '{:.2f}'.format(time() - beg))
 
 	beg = time()
-	generate_product(amount, product_db)
-	print("PRODUCT", '{:.2f}'.format(time() - beg))
+	n = amount
+	generate_product(n, product_db)
+	print("PRODUCT", '{:.2f}'.format(time() - beg), n)
 
 	beg = time()
-	generate_store(amount, store_db)
-	print("STORE", '{:.2f}'.format(time() - beg))
+	n = round(amount * 0.2)
+	generate_store(n, store_db)
+	print("STORE", '{:.2f}'.format(time() - beg), n)
 
 	beg = time()
-	generate_client(amount, client_db)
-	print("CLIENT", '{:.2f}'.format(time() - beg))
+	n = amount * 10
+	generate_client(n, client_db)
+	print("CLIENT", '{:.2f}'.format(time() - beg), n)
 
 	beg = time()
 	generate_stock(stock_db, product_db, store_db)
 	print("STOCK", '{:.2f}'.format(time() - beg))
 
 	beg = time()
-	generate_employee(amount, employee_db, store_db, job_db)
-	print("EMPLOYEE", '{:.2f}'.format(time() - beg))
+	n = amount * 30
+	generate_employee(n, employee_db, store_db, job_db)
+	print("EMPLOYEE", '{:.2f}'.format(time() - beg), n)
 
 	beg = time()
-	generate_order(amount * 50, order_db, client_db, store_db, employee_db)
-	print("ORDER", '{:.2f}'.format(time() - beg))
+	n = amount * 50
+	generate_order(n, order_db, client_db, store_db, employee_db)
+	print("ORDER", '{:.2f}'.format(time() - beg), n)
 
 	beg = time()
 	generate_order_product(order_product_db, order_db, product_db)
