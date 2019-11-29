@@ -183,9 +183,76 @@ where o.order_time between '2019-12-31 00:00:00' and '2019-12-31 23:59:59';
 
 
 --#18 Простая инструкция UPDATE
---
-select *
+-- Перевод всех сотрудников, кроме кассиров из магазина 1 в магазин 2
+update employee
+set employee.store_id = 2
+where employee.store_id = 1 and
+      employee.job_id != 1 or employee.job_id != 2;
+
+
+--#19 Инструкция UPDATE со скалярным подзапросом в предложении SET.
+-- Меняет количество товара с идексом 205.859.26 во всех магазинах на среднее количество
+update stock
+set quantity =
+        (
+            select avg(quantity) :: int
+            from stock
+            where  product_id = '205.859.26'
+            group by product_id
+        )
+where product_id = '205.859.26';
+
+
+--#20 Простая инструкция DELETE.
+-- Удаляет заказы, сделанные 1 января 2013 до 6 часов утра
+delete from orders
+where orders.order_time between '2013-01-01 00:00:00' and '2013-01-01 05:59:59';
+
+
+--#21 Инструкция DELETE с вложенным коррелированным подзапросом в предложении WHERE.
+-- Удаляет все заказы за январь 2013, в которых были товары из категории кофейные столики
+delete from orders
+where id in
+(
+    select op.order_id
+    from order_product op
+    join product p on op.product_id = p.id
+    where p.category = 'Coffee table'
+) and order_time between '2013-01-01 00:00:00' and '2013-01-31 23:59:59';
+
+
+--#22 Инструкция SELECT, использующая простое обобщенное табличное выражение
+-- Все кассиры, и сколько покупателей они обслужили
+select e.id, e.first_name, e.last_name, count(*) as served
 from employee e
-where e.store_id = 5;
+join orders o on e.id = o.cashier_id
+group by e.id
+order by served desc ;
+
+
+--#23 Инструкция SELECT, использующая рекурсивное обобщенное табличное выражение.
+-- ???
+with recursive mult3(n) as
+(
+	select 3
+	union all
+	select n+3 from mult3
+	where n < 300
+)
+select n from mult3;
+
+
+--#24 Оконные функции. Использование конструкций MIN/MAX/AVG OVER()
+-- Товар, категория, цена, минимальная/максимальная/средняя цена в этой категории
+select name, category, cost,
+       min(cost) over (partition by category),
+       max(cost) over (partition by category),
+       avg(cost) over (partition by category)
+from product;
+
+
+--#25 Оконные фнкции для устранения дублей
+--
+
 
 

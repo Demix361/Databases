@@ -45,8 +45,8 @@ create table if not exists job (
 drop table if exists stock cascade;
 
 create table if not exists stock (
-	store_id int not null references store(id),
-	product_id varchar(10) not null references product(id),
+	store_id int not null references store(id) on delete cascade,
+	product_id varchar(10) not null references product(id) on delete cascade,
 	quantity int not null,
 	primary key (store_id, product_id)
 );
@@ -61,8 +61,8 @@ create table if not exists employee (
 	sex varchar(10) not null,
 	phone varchar(15) not null,
 	email varchar(50) not null,
-	store_id int references store(id),
-	job_id int references job(id)
+	store_id int references store(id) on delete cascade,
+	job_id int references job(id) on delete cascade
 );
 
 
@@ -70,9 +70,9 @@ drop table if exists orders cascade;
 
 create table if not exists orders (
 	id serial not null primary key,
-	client_id int not null references client(id),
-	store_id int not null references store(id),
-	cashier_id int not null references employee(id),
+	client_id int not null references client(id) on delete cascade,
+	store_id int not null references store(id) on delete cascade,
+	cashier_id int not null references employee(id) on delete cascade,
 	order_time timestamp not null
 );
 
@@ -80,8 +80,8 @@ create table if not exists orders (
 drop table if exists order_product cascade;
 
 create table if not exists order_product (
-	order_id int not null references orders(id),
-	product_id varchar(10) not null references product(id),
+	order_id int not null references orders(id) on delete cascade,
+	product_id varchar(10) not null references product(id) on delete cascade,
 	amount int not null,
 	primary key (order_id, product_id)
 );
