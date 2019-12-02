@@ -87,6 +87,14 @@ create table if not exists order_product (
 );
 
 
+drop table if exists store_hierarchy;
+
+create table if not exists store_hierarchy (
+	store_id int not null references store(id) on delete cascade primary key,
+    main_store_id int references store(id) on delete cascade
+);
+
+
 alter table store
 ADD CONSTRAINT postal_code CHECK (postal_code > 0);
 

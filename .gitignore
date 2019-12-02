@@ -1,0 +1,13 @@
+.idea
+
+lab_1/gen_folder/.idea
+lab_1/gen_folder/__pycache__
+lab_1/gen_folder/*.csv
+lab_1/.idea
+lab_1/__pycache__
+
+lab_2/.idea
+lab_2/__pycache__
+
+lab_3/.idea
+lab_3/__pycache__

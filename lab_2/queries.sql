@@ -1,6 +1,3 @@
---\i 'S:/GitHub/Databases/lab_2/queries.sql'
-
-
 --#1
 --Названия всех красных предметов, цена которых ниже 10000
 select name, color, cost from product
@@ -70,7 +67,34 @@ group by order_product.product_id, p.category, p.name;
 
 
 --#8 Инструкция SELECT, использующая скалярные подзапросы в выражениях столбцов.
---???
+-- Покупатели и средняя\минимальная стоимость их покупки
+select c.id, c.first_name, c.last_name,
+    (
+        select avg(order_cost.cost)
+        from
+        (
+            select o.client_id, sum(p.cost * op.amount) as cost
+            from orders o
+            join order_product op on o.id = op.order_id
+            join product p on op.product_id = p.id
+            group by o.id
+        ) as order_cost
+        where order_cost.client_id = c.id
+    ) as avg_order_cost,
+    (
+        select min(order_cost.cost)
+        from
+        (
+            select o.client_id, sum(p.cost * op.amount) as cost
+            from orders o
+            join order_product op on o.id = op.order_id
+            join product p on op.product_id = p.id
+            group by o.id
+        ) as order_cost
+        where order_cost.client_id = c.id
+    ) as min_order_cost
+
+from client c;
 
 
 --#9 Инструкция SELECT, использующая простое выражение CASE
@@ -164,7 +188,15 @@ group by s.id;
 
 
 --#15 Инструкция SELECT, консолидирующая данные с помощью предложения GROUP BY и предложения HAVING.
---
+-- Получить список категорий продуктов, средняя цена которых больше общей средней цены продуктов
+select p.category, avg(p.cost) as avg_category_cost
+from product p
+group by p.category
+having avg(p.cost) >
+(
+    select avg(cost) as avg_cost
+    from product
+);
 
 
 --#16 Однострочная инструкция INSERT, выполняющая вставку в таблицу одной строки значений.
@@ -204,9 +236,9 @@ where product_id = '205.859.26';
 
 
 --#20 Простая инструкция DELETE.
--- Удаляет заказы, сделанные 1 января 2013 до 6 часов утра
+-- Удаляет заказы, сделанные 1 января 2013 до 12 часов
 delete from orders
-where orders.order_time between '2013-01-01 00:00:00' and '2013-01-01 05:59:59';
+where orders.order_time between '2013-01-01 00:00:00' and '2013-01-01 11:59:59';
 
 
 --#21 Инструкция DELETE с вложенным коррелированным подзапросом в предложении WHERE.
@@ -227,19 +259,21 @@ select e.id, e.first_name, e.last_name, count(*) as served
 from employee e
 join orders o on e.id = o.cashier_id
 group by e.id
-order by served desc ;
+order by served desc;
 
 
 --#23 Инструкция SELECT, использующая рекурсивное обобщенное табличное выражение.
--- ???
-with recursive mult3(n) as
-(
-	select 3
-	union all
-	select n+3 from mult3
-	where n < 300
+-- Выводит иерархию магазинов и их уровень в дереве
+with recursive temp1 (store_id, main_store_id, level) as (
+    select t1.store_id, t1.main_store_id, 1
+    from store_hierarchy t1
+    where t1.main_store_id is null
+    union
+    select t2.store_id, t2.main_store_id, level + 1
+    from store_hierarchy t2 inner join temp1
+    on (temp1.store_id = t2.main_store_id)
 )
-select n from mult3;
+select  * from temp1;
 
 
 --#24 Оконные функции. Использование конструкций MIN/MAX/AVG OVER()
@@ -251,8 +285,15 @@ select name, category, cost,
 from product;
 
 
---#25 Оконные фнкции для устранения дублей
---
-
-
-
+--#25 Оконные функции для устранения дублей
+select *
+from
+(
+    select aa.name, row_number() over (partition by aa.name) as counter
+    from product join
+        (
+            select *
+            from stock join product on stock.product_id = product.id
+            ) as aa on product.id = aa.id
+    ) as percount
+where counter = 1;
