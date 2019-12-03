@@ -116,10 +116,34 @@ call raise_cashiers(21);
 
 select count(*)
 from employee_temp et
-join employee e
-where e.id = 2;
+where et.id = 2;
 
 
 -- 6 Рекурсивная хранимая процедура или хранимая процедура с рекурсивным ОТВ
---
+-- Обновить пол у всех клиентов в заданном диапазоне id
+select *
+into temp client_temp
+from client;
 
+create or replace procedure update_sex(beg_id int, end_id int, new_sex varchar(10)) as
+$$
+begin
+    if (beg_id <= end_id)
+    then
+        update client_temp
+        set sex = new_sex
+        where id = beg_id;
+        call update_sex(beg_id + 1, end_id, new_sex);
+    end if;
+end;
+$$ language plpgsql;
+
+call update_sex(1, 20, 'female');
+
+select *
+from client_temp
+order by id;
+
+
+-- 7 Хранимая процедура с курсором
+--
