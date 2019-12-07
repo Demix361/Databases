@@ -139,11 +139,134 @@ end;
 $$ language plpgsql;
 
 call update_sex(1, 20, 'female');
-
 select *
 from client_temp
 order by id;
 
 
 -- 7 Хранимая процедура с курсором
---
+-- Увеличить или уменьшить цену всех товаров заданной категории на заданный коэфиицент
+drop table if exists product_copy;
+select *
+into temp product_copy
+from product;
+
+create or replace  procedure update_category_cost(koef real, cat varchar(50)) as
+$$
+    declare cur cursor
+        for select *
+        from product
+        where category = cat;
+        row record;
+    begin
+        open cur;
+        loop
+            fetch cur into row;
+            exit when not found;
+            update product_copy
+            set cost = cost * koef
+            where product_copy.id = row.id;
+        end loop;
+        close cur;
+    end;
+$$ language plpgsql;
+
+call update_category_cost(1.3, 'Bookcase');
+
+select p.id, p.name, p.category, p.cost as old_cost, pc.cost as new_cost
+from product p
+join product_copy pc on p.id = pc.id
+where p.category = 'Bookcase';
+
+
+-- 8 Хранимая процедура доступа к метаданным
+-- Выводит названия столбцов и тип данных для заданной таблицы
+create or replace procedure table_info() as
+$$
+    declare cur cursor
+        for select table_name, column_name, data_type
+        from information_schema.columns
+        where information_schema.columns.table_name in ('product',
+                                                        'store',
+                                                        'job',
+                                                        'client',
+                                                        'stock',
+                                                        'employee',
+                                                        'orders',
+                                                        'order_product')
+        order by table_name;
+        row record;
+    begin
+        open cur;
+        loop
+            fetch cur into row;
+            exit when not found;
+            raise notice '{table : %} {column : %} {data_type : %}', row.table_name, row.column_name, row.data_type;
+        end loop;
+        close cur;
+    end;
+$$ language plpgsql;
+
+call table_info();
+
+
+-- 9 Триггер after
+-- Записывает в таблицу время изменения цены продукта
+drop table if exists cost_changes_info;
+create table if not exists cost_changes_info
+(
+    change_id varchar(10) not null,
+    change_date timestamp not null
+);
+
+create or replace function cost_change_func()
+returns trigger as
+$$
+    begin
+        insert into cost_changes_info(change_id, change_date)
+        values (new.id, current_timestamp);
+        return new;
+    end;
+$$ language plpgsql;
+
+create trigger product_cost_update
+    after update of cost on product_copy
+    for each row
+    execute procedure cost_change_func();
+
+call update_category_cost(1.2, 'Armchair');
+
+select cci.change_id, cci.change_date, p.name, p.category, p.cost
+from cost_changes_info cci
+join product_copy p on p.id = cci.change_id;
+
+
+-- 10 Триггер instead of
+-- Вместо удаления записей из client, пол меняется на delete
+create view client_view as
+    select *
+    from client;
+
+create or replace function update_deleted_func()
+returns trigger as
+$$
+    begin
+        update client_view
+        set sex = 'deleted'
+        where id = old.id;
+        return old;
+    end;
+$$ language plpgsql;
+
+create trigger client_deleted
+    instead of delete on client_view
+    for each row
+    execute procedure update_deleted_func();
+
+delete
+from client_view
+where id = 4;
+
+select *
+from client
+where id = 4;
