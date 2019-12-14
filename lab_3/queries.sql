@@ -1,6 +1,6 @@
 -- 1 Скалярная функция
 -- Вывести количество предметов категории кровать на складах всех магазинов
-create or replace function a1() returns int as
+create or replace function a1() returns bigint as
 $$
     select sum(s.quantity)
     from stock s
