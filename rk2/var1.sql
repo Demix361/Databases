@@ -1,3 +1,7 @@
+-- Аминов Тимур
+-- ИУ7-55б
+-- РК 2 вариант 1
+
 -- 1 Task
 --create database RK2;
 
@@ -128,19 +132,60 @@ select s.name, s.worked_for,
         when s.worked_for >= 20 then 2
         when s.worked_for >= 10 then 3
         when s.worked_for >= 5 then 4
-    end as rang
+    end as work_rang
 from supervisors s;
 
 -- 2) Инструкция, использующая оконную функцию
--- Вывести средний возраст посетителей кружка, руководитель которого имеет максимальный стаж
-/*select distinct c.name, s.name, avg(2019 - v.year_of_birth) over (partition by sc.club_id)
-from clubs c
-join sc on c.id = sc.club_id
-join supervisors s on sc.supervisor_id = s.id
-join cv on cv.club_id = c.id
-join visitors v on cv.visitor_id = v.id */
-select distinct avg(2019 - v.year_of_birth) over (partition by club_id)
+-- Вывести средний возраст посетителей кружка
+select distinct c.name, avg(2019 - v.year_of_birth) over (partition by cv.club_id) as avg_age
+from visitors v
+join cv on v.id = cv.visitor_id
+join clubs c on cv.club_id = c.id;
+
+-- 3) Инструкция select, консолидирующая данные с помощью предложения group by и having
+-- Кружки, в которых средний возраст их посетителей больше чем средний возраст посетителей всех кружклв
+select c.name, avg(2019 - v.year_of_birth) as avg_club_age
 from visitors v
 join cv on v.id = cv.visitor_id
 join clubs c on cv.club_id = c.id
+group by c.id
+having avg(2019 - v.year_of_birth) >
+(
+    select avg(2019 - year_of_birth) as avg_age
+    from visitors
+);
 
+
+-- 3 Task
+-- Хранимая процедура, которая выводит в консоль имена пользовательских функций с хотя бы одним параметром,
+-- имена параметров, типы параметров функций.
+--
+-- Насколько мне известно в postgres процедуры не могут возвращать никаких значений,
+-- поэтому я вывожу в консоль количество функций.
+create or replace procedure functions_info(count int) as
+$$
+    declare cur cursor
+        for select p.oid as id, oidvectortypes(proargtypes) as arg_type, proargnames, proname as name, nspname, prokind
+            from pg_proc p
+            inner join pg_namespace s
+            on p.pronamespace = s.oid
+            where s.nspname not in ('pg_catalog', 'pg_toast', 'information_schema')
+            and prokind = 'f'
+            and oidvectortypes(proargtypes) != ''
+            order by s.nspname;
+        row record;
+    begin
+        open cur;
+        loop
+            fetch cur into row;
+            exit when not found;
+            raise notice '{f_name : %} {args : %} {args_type : %}', row.name, row.proargnames, row.arg_type;
+            count = count + 1;
+        end loop;
+        raise notice 'function amount : %', count;
+        close cur;
+    end;
+$$ language plpgsql;
+
+
+call functions_info(0);

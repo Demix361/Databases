@@ -151,7 +151,7 @@ select *
 into temp product_copy
 from product;
 
-create or replace  procedure update_category_cost(koef real, cat varchar(50)) as
+create or replace procedure update_category_cost(koef real, cat varchar(50)) as
 $$
     declare cur cursor
         for select *
