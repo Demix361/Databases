@@ -79,7 +79,7 @@ def q_4(connect, cursor, amount):
 def main():
     conn = psycopg2.connect(
         user='postgres',
-        password='075743',
+        password='',
         host='127.0.0.1',
         port='5432',
         database='test'

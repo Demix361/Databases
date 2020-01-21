@@ -1,0 +1,35 @@
+{
+	"type": "object",
+	"properties": {
+		"id": {
+			"type": "integer"
+		},
+		"first_name": {
+			"type": "string"
+		},
+		"last_name": {
+			"type": "string"
+		},
+		"sex": {
+			"type": "string"
+		},
+		"phone": {
+			"type": "string"
+		},
+		"email": {
+			"type": "string"
+		},
+		"status": {
+			"type": "string"
+		}
+	},
+	"required": [
+		"id",
+		"first_name",
+		"last_name",
+		"sex",
+		"phone",
+		"email",
+		"status"
+	]
+}
