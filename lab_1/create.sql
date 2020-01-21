@@ -97,6 +97,3 @@ create table if not exists store_hierarchy (
 
 alter table store
 ADD CONSTRAINT postal_code CHECK (postal_code > 0);
-
---\i 'S:/GitHub/Databases/lab_1/create.sql'
---insert into job values('Грузчик', 300000);

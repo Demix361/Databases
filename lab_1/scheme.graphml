@@ -43,7 +43,7 @@ cost<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelParamet
     <node id="n1">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="117.25" width="111.0" x="113.25" y="510.20000000000005"/>
+          <y:Geometry height="117.25" width="111.0" x="56.625" y="515.2"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.677734375" x="40.1611328125" xml:space="preserve" y="4.0">store</y:NodeLabel>
@@ -61,7 +61,7 @@ postal_code<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:Model
     <node id="n2">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="144.0" width="111.0" x="183.75" y="325.70000000000005"/>
+          <y:Geometry height="144.0" width="111.0" x="324.75" y="320.70000000000005"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="32.013671875" x="39.4931640625" xml:space="preserve" y="4.0">client</y:NodeLabel>
@@ -81,7 +81,7 @@ status<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelParam
     <node id="n3">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="117.25" width="111.0" x="352.5" y="510.20000000000005"/>
+          <y:Geometry height="117.25" width="111.0" x="211.5" y="515.2"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="20.013671875" x="45.4931640625" xml:space="preserve" y="4.0">job</y:NodeLabel>
@@ -114,7 +114,7 @@ quantity<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelPar
     <node id="n5">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="175.0" width="111.0" x="324.75" y="310.20000000000005"/>
+          <y:Geometry height="175.0" width="111.0" x="183.75" y="305.20000000000005"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.03125" x="27.484375" xml:space="preserve" y="4.0">employee</y:NodeLabel>
@@ -167,12 +167,28 @@ amount<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelParam
         </y:GenericNode>
       </data>
     </node>
+    <node id="n8">
+      <data key="d5"/>
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
+          <y:Geometry height="75.88749999999999" width="111.0" x="42.75" y="354.75625"/>
+          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="86.705078125" x="12.1474609375" xml:space="preserve" y="4.0">store_hierarchy</y:NodeLabel>
+          <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="79.375" x="2.0" xml:space="preserve" y="30.701171875">PK store_id
+main_store_id<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelParameter><y:ErdAttributesNodeLabelModelParameter/></y:ModelParameter></y:NodeLabel>
+          <y:StyleProperties>
+            <y:Property class="java.lang.Boolean" name="y.view.ShadowNodePainter.SHADOW_PAINTING" value="true"/>
+          </y:StyleProperties>
+        </y:GenericNode>
+      </data>
+    </node>
     <edge id="e0" source="n4" target="n1">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-27.75" sy="52.1875" tx="-37.0" ty="-58.625">
-            <y:Point x="27.75" y="407.70000000000005"/>
-            <y:Point x="131.75" y="407.70000000000005"/>
+          <y:Path sx="-27.75" sy="52.1875" tx="-41.625" ty="-58.625">
+            <y:Point x="27.75" y="440.64375"/>
+            <y:Point x="70.5" y="440.64375"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="crows_foot_many" target="none"/>
@@ -206,9 +222,9 @@ amount<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelParam
     <edge id="e3" source="n5" target="n1">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-27.75" sy="87.5" tx="37.0" ty="-58.625">
-            <y:Point x="352.5" y="495.20000000000005"/>
-            <y:Point x="205.75" y="495.20000000000005"/>
+          <y:Path sx="-27.75" sy="87.5" tx="41.625" ty="-58.625">
+            <y:Point x="211.5" y="500.20000000000005"/>
+            <y:Point x="153.75" y="500.20000000000005"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="crows_foot_many" target="none"/>
@@ -219,7 +235,10 @@ amount<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelParam
     <edge id="e4" source="n6" target="n2">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="66.30000000000001" tx="0.0" ty="-72.0"/>
+          <y:Path sx="37.0" sy="66.30000000000001" tx="0.0" ty="-72.0">
+            <y:Point x="276.25" y="295.20000000000005"/>
+            <y:Point x="380.25" y="295.20000000000005"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="crows_foot_many" target="none"/>
           <y:BendStyle smoothed="false"/>
@@ -242,9 +261,11 @@ amount<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelParam
     <edge id="e6" source="n6" target="n1">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-37.0" sy="66.30000000000001" tx="0.0" ty="-58.625">
+          <y:Path sx="-37.0" sy="66.30000000000001" tx="13.875" ty="-58.625">
             <y:Point x="202.25" y="295.20000000000005"/>
             <y:Point x="168.75" y="295.20000000000005"/>
+            <y:Point x="168.75" y="490.20000000000005"/>
+            <y:Point x="126.0" y="490.20000000000005"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="crows_foot_many" target="none"/>
@@ -265,12 +286,20 @@ amount<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelParam
     <edge id="e8" source="n6" target="n5">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="37.0" sy="66.30000000000001" tx="0.0" ty="-87.5">
-            <y:Point x="276.25" y="295.20000000000005"/>
-            <y:Point x="380.25" y="295.20000000000005"/>
-          </y:Path>
+          <y:Path sx="0.0" sy="66.30000000000001" tx="0.0" ty="-87.5"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="crows_foot_many" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e9" source="n8" target="n1">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="37.943749999999994" tx="-13.875" ty="-58.625"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
