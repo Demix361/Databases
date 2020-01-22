@@ -3,7 +3,7 @@ from jsonschema import validate
 from jsonschema import exceptions
 
 data_f = 'load.json'
-# data_f = 'error_1.json'
+data_f = 'error_2.json'
 schema_f = 'myschema.json'
 
 try:
